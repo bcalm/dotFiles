@@ -1,0 +1,20 @@
+vim tutor
+vimtutor 
+vim
+bash ./bin
+ls
+cat bin
+rm bin
+ls
+mkdir bin
+vim 
+ls
+Path="$PATH:~bin"
+cat PATH
+ls path
+echo${PATH}
+echo ${PATH}
+PATH="$PATH:~bin"
+echo $PATH
+PATH=$PATH:~bin
+echo $PATH

@@ -1,0 +1,532 @@
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+awk -f vvvvv moments >vsegration
+awk -f vvvvv moments >vsegration
+awk -f vvvvv moments >vsegration
+./to_accuracy.sh vsegration
+awk -f vvvvv moments 
+./to_accuracy.sh vsegration
+cd ../
+ls
+awk
+cd awk
+ls
+mv ../assignments/vvvvv moment.awk
+ls
+cd ../assignments/
+ls
+rm moment.awk
+ls
+cd ../assignments/
+cd ../
+cd awk
+mv ../assignments/print_lines_11_to_20.awk .
+ls
+cd ../assignments/
+mv ~/Downloads/countries.csv .
+ls
+cd work/tmp
+vim moments.awk
+vim moments.awk
+vim moments.awk
+vim moments.awk
+ls
+cd ../assignments/
+ls
+ls
+cd ../tmp/
+cp ../assignments/scores .
+ls
+head -n1 scores
+awk -F"," -f report_card.awk scores 
+awk -F"," -f report_card.awk scores 
+awk -F"," -f report_card.awk scores 
+awk -F"," -f report_card.awk scores 
+awk -F"," -f report_card.awk scores 
+awk -F"," -f report_card.awk scores 
+awk -F"," -f report_card.awk scores 
+awk -F"," -v -{name=Aftab}f report_card.awk scores 
+awk -F"," -v "name=Aftab" -f report_card.awk scores 
+awk -F"," -v "name=Aftab" -f report_card.awk scores 
+awk -F"," -v "name=Aftab" -f report_card.awk scores 
+awk -F"," -v "name=Aftab" -f report_card.awk scores 
+awk -F"," -v "name=Aftab" -f report_card.awk scores 
+awk -F"," -v "name=of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name=of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name=of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name=_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+cd ../tic_tac_toe/
+awk -f tic.awk 
+cd ../tmp
+awk -F","-v "name_of_students=aftab" scores.awk scores
+ls
+awk -F","-v "name_of_students=aftab" report_card.awk scores
+awk -F","-v "name_of_students=aftab" -f report_card.awk scores
+awk -F"," -v "name_of_students=aftab" -f report_card.awk scores
+awk -F"," -v"name_of_students=aftab" -f report_card.awk scores
+awk -F"," v "name_of_students=aftab" -f report_card.awk scores
+awk -F"," vv "name_of_students=aftab" -f report_card.awk scores
+awk -F"," -v "name_of_students=aftab" -f report_card.awk scores
+man awk
+awk -F"," -v "name_of_students=aftab" -f report_card.awk scores
+awk -F"," -v= "name_of_students=aftab" -f report_card.awk scores
+awk -F"," -v= "name_of_students=aftab" -f report_card.awk scores
+awk -F","-v "name_of_students=aftab" report_card.awk sk;mlp m lk lk
+cd work/assignments/
+mv ~/Downloads/moments .
+ls
+cleat
+clear
+vim moment.awk
+vim moments.awk
+vim moment.awk
+vim vvvvv
+vim vvvvv
+ls
+rm vvvvv 
+ls
+cd ../tmp
+mooment.awk
+cp ../assignments/moments
+cp ../assignments/moments moments
+cp ../assignments/to_accuracy.sh to_accuracy.sh
+ls
+cat moments 
+awk -f moment.awk moments
+awk -f moment.awk moments
+ls
+awk -f moments.awk moments
+awk -f moments.awk moments > classfied_moments
+./to_accuracy.sh classfied_moments 
+awk -f moments.awk moments|nl
+awk -f moments.awk moments > classfied_moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl|greep "pay"
+awk -f moments.awk moments|nl|grep "pay"
+awk -f moments.awk moments|nl|grep "pay && not"
+awk -f moments.awk moments|nl|grep "pay || not"
+awk -f moments.awk moments|nl|grep "pay\not"
+awk -f moments.awk moments|nl|grep "pay|not"
+awk -f moments.awk moments|nl|grep "(pay|not)"
+awk -f moments.awk moments|nl|grep "(pay||not)"
+awk -f moments.awk moments|nl|grep "(not)"
+awk -f moments.awk moments|nl|grep "not"
+awk -f moments.awk moments|nl
+awk -f moments.awk moments > classfied_moments|nl
+./to_accuracy.sh classfied_moments 
+awk -f moments.awk moments > classfied_moments|nl
+./to_accuracy.sh classfied_moments 
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments|nl
+awk -f moments.awk moments > classfied_moments|nl
+./to_accuracy.sh classfied_moments 
+awk -f moments.awk moments > classfied_moments|nl
+./to_accuracy.sh classfied_moments 
+awk -f moments.awk moments >
+awk -f moments.awk moments 
+awk -f moments.awk moments > classfied_moments|nl
+awk -f moments.awk moments >|nl
+awk -f moments.awk moments 
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments > classfied_moments
+./to_accuracy.sh classfied_moments 
+./to_accuracy.sh classfied_moments 
+awk -f moments.awk moments |nl
+./to_accuracy.sh classfied_moments 
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |> classfied_moments
+./to_accuracy.sh classfied_moments 
+cat classfied_moments |nl
+cat classfied_moments 
+awk -f moments.awk moments |> classfied_moments
+cat classfied_moments 
+cat classfied_moments 
+awk -f moments.awk moments > classfied_moments 
+cat classfied_moments 
+clear
+./to_accuracy.sh classfied_moments 
+cat classfied_moments |nl
+clear
+awk -f moments.awk moments |nl
+clear
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+awk -f moments.awk moments |nl
+ls
+ls
+vim report_card.awk
+ls
+cd ../
+ls
+mkdir tic_tac_toe
+cd tic_tac_toe/
+vim tic.awk
+whoami
+cd work/assignments/
+mv ~/Downloads/moments
+mv ~/Downloads/moments .
+ls
+cat moments
+.check_accuracy.sh moments.awk
+.check_accuracy.sh moments.awk
+.ccheck_accuracy.sh moments.awk
+.ccheck_accuracy.sh moment.awk
+./check_accuracy.sh moment.awk
+mv ~/Downloads/check_accuracy.sh .
+./check_accuracy.sh moment.awk
+chmod +x check_accuracy.sh 
+./check_accuracy.sh moment.awk
+./check_accuracy.sh moment.awk
+cat moment
+cat moments
+mv ~/Downloads/to_accuracy.sh .
+ls
+./o_check_accuracy.sh moment.awk
+./oto_accuracy.sh moment.awk
+chmod +x to_accuracy.sh 
+./to_accuracy.sh moment.awk
+./to_accuracy.sh moment.aawk
+./to_accuracy.sh moment.aawk
+./to_accuracy.sh moment.aawk
+./to_accuracy.sh moment.aawk
+awk -f moment.awk moment
+awk -f moment.awk moment
+awk -f moment.awk moment
+awk -f moment.awk moment
+cat moment.awk
+awk -f moment.awk moment
+awk -f moment.awk moment
+awk -f moment.awk moment
+awk -f moment.awk moment
+awk -f moment.awk moment
+awk -f moment.awk moment
+awk -f moment.awk moment
+awk -f moment.awk moment
+./to_accuracy.sh moment.aawk
+./to_accuracy.sh moment.aawk
+./to_accuracy.sh moment.aawk
+awk -f moment.awk moment
+man awk | grep next
+awk -f moment.awk moment
+awk -f moment.awk moment
+awk -f moment.awk moment
+cd work/tmp
+awk -F"," -v "name_of_students=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_students=Aftab" -f report_card.awk scores 
+awk -F"," -v "name_of_student=Aftab" -f report_card.awk scores 
+cd ../tic_tac_toe/
+vim tic.awk
+cd
+vim .vimrc
+cd ../tic_tac_toe/
+cd work/tic_tac_toe/
+vim tic.awk 
+vim my_tic.awk
+vim my_tic.awk
+vim my_tic.awk
+cd ../work/tmp
+cd work/tmp
+vim report_card.awk 
+vim report_card.awk 
+cd ../tic_tac_toe/
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+cat tic.awk
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+cd ../tmp
+ls
+awk -F -v"name_of_student=Aftab" -f report_card.awk scores
+awk -F -v"name_of_student=Aftab" -f report_card.awk sscores
+awk -F -v" nname_of_student=Aftab" -f report_card.awk scores
+awk -F -v "name_of_student=Aftab" -f report_card.awk scores
+awk -F -v "name_of_student=Aftab" -freport_card.awk scores
+awk -F -v "name_of_student=Aftab" -frreport_card.awk scores
+awk -F ,"-v "name_of_student=Aftab" -f report_card.awk scores
+
+
+awk -F"," -v"name_of_student=Aftab" -f report_card.awk scores
+awk -F"," -v"" name_of_student=Aftab" -f report_card.awk scores
+
+cd ../tic_tac_toe/
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 1
+awk -f my_tic.awk 1 ar[1]
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+man awk
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+clear
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+awk -f my_tic.awk 
+qw
+cd work/tic_tac_toe/
+ls
+awk -f my_tic.awk 
+cd ../tmp/bomb_mines/
+vim pair_mines_games.awk
+cd work/tmp/bomb_mines/
+   
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+awk -f pair_mines_games.awk 
+echo $shell
+echo $SHELL
+chsl -s /bin/zsh
+cd
+chsl -s /bin/zsh
+chsh -s /bin/zsh
+echo $SHELL
+cd work/tmp/bomb_mines/

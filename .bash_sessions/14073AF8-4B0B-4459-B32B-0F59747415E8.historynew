@@ -1,0 +1,118 @@
+cd Downloads/
+nl finalSrk.csv |cut -d ' ' -f1
+nl finalSrk.csv |cut -d ' ' -f2
+nl finalSrk.csv 
+nl finalSrk.csv |cut -d ' '  -f2
+nl finalSrk.csv |cut -d ' '  -f1
+nl finalSrk.csv |cut -d
+nl finalSrk.csv |cut
+nl finalSrk.csv |cut -b
+nl finalSrk.csv |cut -c
+nl finalSrk.csv |cut -c -f1-3
+nl finalSrk.csv |cut -d -f1-3
+nl finalSrk.csv |cut -d' ' -f1-3
+nl finalSrk.csv |tail
+nl finalSrk.csv |tail -n1
+nl finalSrk.csv |tail -n1 |cut -c 1-4
+nl finalSrk.csv |tail -n1 |cut -c 
+nl finalSrk.csv |tail -n1 |cut -c  1-3
+nl finalSrk.csv |tail -n1 |cut -d' ' -f1
+cut -c 1-3 | nl finalSrk.csv |tail -n1 |
+cut -c 1-3 | nl finalSrk.csv |tail -n1
+cut -d ' ' -f1 | nl finalSrk.csv |tail -n1 
+cut -c 1-3 finalSrk.csv 
+cut -d' '-f1 finalSrk.csv 
+cut -d ' '-f1 finalSrk.csv 
+cut -d ' ' -f1 finalSrk.csv 
+nl finalSrk.csv 
+cut -d ' ' -f1 finalSrk.csv 
+nl finalSrk.csv 
+nl finalSrk.csv | cut -d ' ' -f1 finalSrk.csv 
+cut -d ' ' -f1 finalSrk.csv 
+cut -d ' ' -f1 finalSrk.csv 
+cut -d ' ' -f1 finalSrk.csv 
+cut -d ' ' -f1 finalSrk.csv 
+cut -d ' ' -f1 finalSrk.csv 
+nl finalSrk.csv | cut -d ' ' -f1 finalSrk.csv |tail -n1 
+nl finalSrk.csv | cut -d ' ' -f0 finalSrk.csv |tail -n1 
+nl finalSrk.csv | cut -c 1-2 finalSrk.csv |tail -n1 
+nl finalSrk.csv 
+nl finalSrk.csv |tail -n1 |cut -c
+nl finalSrk.csv |tail -n1 |cut -c 1-3
+nl finalSrk.csv |tail -n1 |cut
+nl finalSrk.csv |tail 
+nl finalSrk.csv |tail -n1 |cut -b
+nl finalSrk.csv |tail -n1 |cut -b 1-2
+nl finalSrk.csv |tail -n1 |cut -b 1
+nl finalSrk.csv |tail -n1 |cut -f
+nl finalSrk.csv |tail -n1 |cut 
+nl finalSrk.csv |tail -n1 |cut -c 1-3
+nl finalSrk.csv |tail -n1 |cut -d ' ' -f1
+nl finalSrk.csv |tail -n1 |cut -d ', ' -f1
+nl finalSrk.csv |tail -n1 |cut -d ' ' -f1
+nl finalSrk.csv |tail -n1 |cut -d -f1
+nl finalSrk.csv |tail -n1 |cut -d  -f1
+nl finalSrk.csv |tail -n1 
+sort -n finalSrk.csv 
+sort -n finalSrk.csv |cut -d ' ' -f2
+sort -n finalSrk.csv |cut -d , ' -f2
+sort -n finalSrk.csv |cut -d ', ' -f2
+sort -n finalSrk.csv |cut -d ',' -f2
+cut -d ',' -f2 finalSrk.csv 
+cut -d ',' -f2 finalSrk.csv 
+cut -d ',' -f2 finalSrk.csv |uniq -c
+cut -d ',' -f2 finalSrk.csv |uniq -c| head -n5 |tail -n1
+cat finalSrk.csv 
+cut -d ',' -f5 finalSrk.csv |uniq 
+cut -d ',' -f5 finalSrk.csv |sort |uniq
+cut -d '!' -f5 finalSrk.csv |sort |uniq
+cut -d '!' -f5 finalSrk.csv
+cut -d ',' -f5 finalSrk.csv
+cut -d ',' -f5 finalSrk.csv |sort |uniq
+cut -d '!' -f5 finalSrk.csv |sort |uniq
+cut -d '!' -f5 finalSrk.csv 
+cut -d '!' -f5 finalSrk.csv |sort |uniq -c
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -n
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|cut -b 1
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|cut -b 1-2
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|head 
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|head -n12
+man head
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|head -b
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|head -c
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|head -c 1
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|head -c 1
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|head 
+man cut
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|head -n12cat 
+cat finalSrk.csv 
+sort finalSrk.csv 
+sort finalSrk.csv | cut -c 1
+sort finalSrk.csv | cut -c 1 
+sort finalSrk.csv | cut -c 1 |uniq -c
+sort finalSrk.csv | cut -c 1 |uniq -c|sort -nr
+sort finalSrk.csv | cut -c 1 |uniq -c|sort -nr|head -n1
+cut -d ',' -f2
+cut -d ',' -f2 finalSrk.csv 
+cut -d ',' -f1-2 finalSrk.csv 
+sort -t ',' -nk2 finalSrk.csv 
+sort -t ',' -nk2 finalSrk.csv |cut -d ','-f 1-2
+cut -d ','-f 1-2
+cut -d ','-f 1-2 finalSrk.csv 
+cut -d ','-f 1-2 finalSrk.csv 
+cut -d ',' -f2 finalSrk.csv 
+cut -d ','-f 1-2 finalSrk.csv 
+cut -d ',' -f1-2 finalSrk.csv 
+cut -d ',' -f1-2 finalSrk.csv |sort 
+cut -d ',' -f1-2 finalSrk.csv |sort  -nk2
+cut -d ',' -f1-2 finalSrk.csv |sort-t ',' -nk2
+cut -d ',' -f1-2 finalSrk.csv |sort -t ',' -nk2
+cut -d ',' -f1-2 finalSrk.csv |sort -t ',' -nk2|uniq
+man uniq
+cut -d ',' -f1-2 finalSrk.csv |sort -t ',' -nk2|uniq -f
+cut -d ',' -f1-2 finalSrk.csv |sort -t ',' -nk2|uniq -d
+cut -d ',' -f1-2 finalSrk.csv |sort -t ',' -nk2|uniq -u
+cut -d ',' -f5 finalSrk.csv |sort |uniq
+sort finalSrk.csv | cut -c 1 |uniq -c|sort -nr|head -n1

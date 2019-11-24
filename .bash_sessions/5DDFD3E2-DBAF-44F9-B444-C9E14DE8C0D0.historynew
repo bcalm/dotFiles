@@ -1,0 +1,25 @@
+ls
+ls
+cd bin
+cat ls.sh
+cat >> ls.sh
+cat > ls.sh
+cat ls.sh
+ls
+cd\
+cd
+ld
+ls
+ls
+cat > ls.sh
+ls
+ls
+cd bin
+ls
+rm ls.sh
+ls
+rm ls,sh
+rm ls.sh
+ls
+cd
+ld

@@ -1,0 +1,21 @@
+vim .bashrc
+vim .bashrc
+cd Downloads/
+grep "1998" finalSrk.csv 
+bash
+cd
+rm alias.sh
+ls
+cd bin
+ls
+cd
+cd Downloads/
+grep -viL "func" *.dtn
+grep -L "func" *.dtn
+grep -L -v "func" *.dtn
+grep -iL "func" *.dtn
+grep -A1 -il "["func"] *.dtn
+grep -il "func" *.dtn |grep -A1
+grep -il "func" *.dtn |grep -A1
+grep "1998" finalSrk.csv 
+grep "1998" finalSrk.csv 

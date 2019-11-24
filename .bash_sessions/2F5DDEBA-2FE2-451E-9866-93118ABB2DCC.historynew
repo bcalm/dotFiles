@@ -1,0 +1,14 @@
+cd Down
+cd Downloads/
+ mkdir
+clear
+cd
+cd work/tmp
+ls
+ls
+cd
+ls
+cd work/tmp
+ vim tic_tacce
+cd
+vim .bash_profile 

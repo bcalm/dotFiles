@@ -1,0 +1,8 @@
+cut -d ',' -f5 finalSrk.csv |sort |uniq -d|sort -nr
+cd Downloads/
+cut -d ',' -f5 finalSrk.csv |sort |uniq -d|sort -n
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|sort -nr|head -n12
+cut -d ',' -f5 finalSrk.csv |sort |uniq -c|uniq -d
+cut -d ',' -f5 finalSrk.csv |sort |uniq -d
+wc -l finalSrk.csv 
+cut

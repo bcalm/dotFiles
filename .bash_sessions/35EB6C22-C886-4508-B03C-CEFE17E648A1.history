@@ -1,0 +1,600 @@
+cat vv
+ls vv
+ls -l
+chmod -x vv
+ls -l vv
+bash ./vv
+./vv
+chmod +x vv
+./vv
+cd ../
+cd Downloads/
+v*kra*.dtn
+cat v*kra*.dtn
+head v*kra*.dtn |tail -n3 
+head v*kra*.dtn
+head v*kra*.dtn |tail -n3 |echo
+head v*kra*.dtn |tail -n3 |cat
+cd../
+ls
+cd ../
+ls
+rm vikram 
+ls
+rm extra stuff work
+man rm
+rm -d extra/ stuff/ work/
+man rm
+rm -df extra/ stuff/ work/
+clear
+cd work
+cat > vicky
+cat > vicky
+./vicky
+ls vickt
+ls vicky
+ls -vicky
+ls -l vicky
+chmod +x vicky 
+./vicky 
+ls
+cd vicky
+cat vicky
+ls -l vicky
+vicky
+echo ${path}
+echo ${Path}
+echo ${PATH}
+ls
+cd work
+ls
+cat > vicky
+./vicky
+chmod +x vicky
+./vicky
+ls
+cat > vicky
+cat > vicky
+./ vicky
+bash ./vicky
+ls
+chmod +x vicky
+./ vicky
+./vicky
+cat > lakhan
+cat > lakhan
+cat > lakhan
+bash ./lskhan
+bash ./lakhan
+ls
+chmod +x lakhan
+./vicky
+ls
+cd ../Documents
+cd../
+cd../
+cd ...
+cd../
+cd ../
+cd ../
+cd Downloads/
+../work/work/lakhan
+ls ../work/work/
+../work/work/lakhan
+mv ../work/work/lakhan here
+./here
+ls
+mv ../work/work/lakhan ./here
+mv ../work/work/here ./here
+ls ../work/work/here 
+here
+./here
+ls
+rm here
+./here
+../work/work/
+exit
+top
+top
+ps
+man ps
+ps axu
+ps
+ps a
+ps x
+ps u
+man sort
+cd Downloads/
+sort vi*
+ls
+sort
+ls
+sort 
+sort vikram_hcf.dtn 
+sort -n
+sort -n vikram_hcf.dtn 
+sort -t ' ' -nk2 vikram_hcf.dtn 
+cd..
+cd../
+cd ../
+cd work
+cat > numbers
+numbers
+ls
+cat numbers 
+sort numbers 
+sort -nk2
+sort -nk2 numbers 
+sort -r 
+cd work/
+sort -r numbers 
+sort -t ' ' -nk2 numbers 
+man sort
+sort -m ' ' -nk2 numbers 
+sort -m numbers 
+sort -b numbers 
+sort -c numbers 
+man sort
+cd ../Downloads/
+cut -c 1-2 vikram_hcf.dtn 
+cut -d ' ' f1-2 vikram_hcf.dtn 
+cut -d ' ' f 1-2 vikram_hcf.dtn 
+cut -d ' ' f 1 vikram_hcf.dtn 
+cut -d ' '  f 1 vikram_hcf.dtn 
+cut -d ' '  f -1 vikram_hcf.dtn 
+cut -d ' '  f-1 vikram_hcf.dtn 
+cut -d ' '  -f1 vikram_hcf.dtn 
+cut -d ' '  -f1-2 vikram_hcf.dtn 
+man cut
+cut -n 1-2 vikram_hcf.dtn 
+cut -n  vikram_hcf.dtn 
+cut -n vikram_hcf.dtn 
+cut -s vikram_hcf.dtn 
+man cut
+cut -b vikram_hcf.dtn 
+cut -b vikram*.dtn 
+cut vikram*.dtn 
+sort -n vikram_hcf.dtn 
+sort -n vikram_hcf.dtn | unix
+sort -n vikram_hcf.dtn | uniq
+cut -d ' ' -f1 vikram_hcf.dtn 
+sort
+cut -d ' ' -f1 vikram_hcf.dtn |sort
+cut -d ' ' -f1 vikram_hcf.dtn |sort
+cut -d ' ' -f1 vikram_hcf.dtn |sort |uniq
+man uniq
+cut -d ' ' -f1 vikram_hcf.dtn |sort |uniq -c
+cat >person.sh
+chmod +x person.sh
+person.sh vikram genius
+./person.sh vikram genius
+cat >person.sh
+./person.sh vikram genius
+export person.sh 
+person="vikram"
+export vikram
+echo $person 
+ls
+export person
+bash 
+echo $person 
+mkdir Finalsrk.csv
+ls
+mkdir finalsrk.csv
+rmdir $!
+ls
+rmdir -p  $!
+finalsrk.csv
+cd finalsrk.csv
+nl finalSrk.csv |tail -n1 
+cd Downloads/
+nl finalSrk.csv |tail -n1 
+cd Downloads/
+cut -d ',' -f5 finalSrk.csv |sort |uniq -d
+cut -d ',' -f5 finalSrk.csv |sort |sort -nr |uniq -d
+cut -d ',' -f5 finalSrk.csv |sort | |uniq -d
+cut -d ',' -f5 finalSrk.csv |sort |uniq -d
+man uniq
+vikram is not only fast but also he is  accurate. 
+vikam is not only fast but also he is accurate.
+vikam is not only fast but also he is accurate.but also he is accurate.but also he is accurate.but also he is accurate.but also he is accurate.but also he is accurate.but also he is accurate.
+it is not working text size i okkk
+now I am happy okk habit take time to change yeah you are right i am typing without see in key boardyou have any q   rat is a chutiya 
+Yeah it is horrible but at that time i am not know about this YEAH that pretty good
+now I am happy okk habit take time to change yeah you are right i am typing without see in key boardyou have any q   rat is a chutiya 
+cd Downloads/
+ls
+cat v
+yeah that's preetty good vikram u are the legend u have not to too much worry but show little much worry on your face okk that's help to you okk
+vim tutor
+vimtutor
+vikram is accurate okk  happy thankshappy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happy happ y
+cd Downloads/
+cat finalSrk.csv 
+sort t ',' -nk2 finalSrk.csv 
+sort
+sort t ',' -nk2 finalSrk.csv 
+cat finalSrk.csv 
+cut -d ',' -f2 finalSrk.csv 
+cut -d ',' -f2 finalSrk.csv |uniq -c
+cut -d ',' -f2 finalSrk.csv |sort |uniq
+cut -d ',' -f2 finalSrk.csv |sort |uniq -c
+cut -d ',' -f2 finalSrk.csv |sort |uniq -c|sort -nk2
+cut -d ',' -f2 finalSrk.csv |sort |uniq -c|sort -nk2|uniq -d
+cut -d ',' -f2 finalSrk.csv |sort |uniq -c|sort -nk2
+cut -d ',' -f2 finalSrk.csv |sort |uniq
+cut -d ',' -f2 finalSrk.csv |sort |uniq -c
+cut -d ',' -f2 finalSrk.csv |sort |uniq -c|sort -r
+cut -d ',' -f2 finalSrk.csv |sort |uniq -c|sort -r|head -n1
+sort -t ',' -k2n -k1r finalSrk.csv 
+sort -t ',' -k2n -k1r finalSrk.csv 
+sort -t ',' -snk2 -k1r finalSrk.csv 
+cd ../ 
+cd work
+ls
+mkdir homework
+homework
+cat homework
+cd homework
+cat > test 
+cat > test 
+echo > test 
+cat > test 
+cat test 
+cat > test 
+cat test 
+sort -t' ' -n test 
+sort -t' ' -k2n test 
+jai ho aaja aaja chinnaswami aane k tle ho jai ho ja ja bhar ek ek eorji don't get may be u are rught my pleasure welcome 
+man uniq
+cd ../Downloads
+cd ~
+cd Downloads/
+sort -t ',' -k2n finalSrk.csv |cut -d ','-f2 
+sort -t ',' -k2n finalSrk.csv
+sort -t ',' -k2n finalSrk.csv |cut -d ',' -f2 
+sort -t ',' -k2n finalSrk.csv |cut -d ',' -f2 |uniq -u
+sort -t ',' -k2n finalSrk.csv |cut -d ',' -f2 |uniq -u| el
+sort -t ',' -k2n finalSrk.csv |cut -d ',' -f2 |uniq -u| wc -l
+cut -d ',' -f2 |sort uniq -u| wc -l
+cut -d ',' -f2 |sort| uniq -u| wc -l
+cut -d ',' -f2 finalSrk.csv |sort| uniq -u| wc -l
+vim
+vim
+vim practice 
+vim vimwork
+vimtutor
+echo $PATH
+vim
+vim ~/
+vim ~/
+vim
+vim
+cat .bashrc
+cat bashrc
+cat .bashrc
+cat .bash_profile
+vim .bashrc
+bash
+echo $PATH
+vim .bash_profile
+bash
+grep "19" finalSrk.csv 
+vim .bash_profile
+vim .bashrc
+exit
+echo $PATH
+vim .bashrc
+cd Downloads/
+grep 1998 finalSrk.csv 
+chmod +x alias grep
+bash
+exit
+grep 1998 finalSrk.csv 
+exit
+vim .bashrc
+exit
+grep 1998 finalSrk.csv 
+man alias
+man Alias
+man alias
+bash
+vim .bashrc
+grep "19" fin
+cd Downloads/
+grep "19" finalSrk.csv 
+bash
+vim .bashrc
+bash
+cd
+vim .bashrc
+grep" 19" /Downloads/finalSrk.csv
+cd Downloads/
+grep "19" finalSrk.csv 
+bash
+vim
+vimtutor
+vim
+vimtutor
+vim
+rm vvvvv
+vikram
+ls
+rm viiiii
+ls
+rm vikram
+ls
+rm extra 
+rmdir extra
+cat extra
+cd extra
+cat
+ls extra
+ls
+rm vv
+ls
+cd..
+cd ..
+rmdir extra/
+:alias grep="grep --color=always"
+cd
+rm .bashrc
+rm .bash_profile
+man grep
+cd Downloads/
+grep "^[^ABC]e" finalSrk.csv 
+grep "^[^ABC]e....," finalSrk.csv 
+grep -ic 1998 finalSrk.csv 
+cd
+cd Downloads/
+grep -il "mov" *.dtn
+grep -il -v  "func" *.dtn
+grep -il  "func" *.dtn
+grep -v -il  "func" *.dtn
+grep -ilv  "func" *.dtn
+grep -vil  "func" *.dtn
+grep -vil  "jgt" *.dtn
+grep -vil  "jlt" *.dtn
+grep -il  "func" *.dtn
+grep -l .dtn
+grep -c ".dtn"
+grep -c ".dtn" *
+ls 
+ls > listprog
+cat listprog 
+grep -c ".dtn" listprog 
+grep -il "func" *.dtn
+grep -il "func" *.dtn|wc -l
+grep -il "func" *.dtn|wc -l
+grep -v -il "func" *.dtn|wc -l
+grep -vc "func" *.dtn|wc -l
+grep -vc "func" *.dtn
+grep -il "func" 
+grep -il "func" *
+grep -ilc "func" *
+grep -il "func" * | wc -l
+grep -il "func" *.dtn | wc -l
+grep "func" *.dtn | wc -l
+grep "func" *.dtn
+grep -i "func" *.dtn
+grep -vi "func" *.dtn
+grep -vi "func " *.dtn
+grep -i "func " *.dtn
+cat vikram_rover.dtn 
+grep -ilc "func" *.dtn
+grep -v -il "func" *.dtn
+grep -v "func" vikram_simpleinterest\ \(1\).dtn 
+grep -iv "func" vikram_simpleinterest\ \(1\).dtn 
+grep -i "[^func]" 
+grep -vi "func" vikram_simpleinterest\ \(1\).dtn vikram_rover.dtn 
+grep -vil "func" vikram_simpleinterest\ \(1\).dtn vikram_rover.dtn 
+grep -vil "func" *.dtn
+grep -vl "FUNC" *.dtn
+grep -vl "FUNC" *.dtn|wc -l
+grep -il "func" *.dtn|wc -l
+grep -v -il "func" *.dtn|wc -l
+grep -il [^"func"] *.dtn|wc -l
+grep -il "[^func] *.dtn|wc -l
+D
+
+grep -il [^"FUNC"] *.dtn|wc -l
+grep [^"FUNC"] *.dtn|wc -l
+grep [^"FUNC"] *.dtn
+grep [^"FUNC"] vikram_simpleinterest\ \(1\).dtn 
+grep [^F] vikram_simpleinterest\ \(1\).dtn 
+grep ^[^F] vikram_simpleinterest\ \(1\).dtn 
+grep [^f] vikram_simpleinterest\ \(1\).dtn 
+grep -v F vikram_simpleinterest\ \(1\).dtn 
+
+grep [^"FUNC"] vikram_simpleinterest\ \(1\).dtn 
+grep -vil 'FUNC' *.dtn
+grep -vil 'FUNC' *.dtn|wc -l
+grep -il 'FUNC' *.dtn|wc -l
+grep -vi 'FUNC' *.dtn|wc -l
+grep -vi 'FUNC' *.dtn
+grep -c -
+grep -c -i "func" 
+grep -c -i "func" *.dtn 
+grep -c -i "func" *.dtn | grep ":0"
+man grep
+cut -d '_' -f2-5 *.dtn
+
+ grep -l '*.dtn' *.dtn
+ grep -l 'mov' *.dtn
+ grep -l "mov" *.dtn
+ grep -il "mov" *.dtn
+ grep -il "mov" *.dtn|cut -d '_' -f2-5
+echo $PATH
+vim .bash_profile
+path
+echo$PATH
+ls
+vim .bash_profile
+echo $P
+echo $PATH
+exit
+echo $PATH
+bash
+vim .bash_profile 
+cat > alias.sh
+vim
+chmod +x alias.sh
+vim .bash_profile 
+vim .bashrc
+ls
+cp alias.sh bin/
+cd bin
+ls
+ls alias.sh 
+ls -l
+grep "1998" finalSrk.csv 
+ex=it
+'exit
+
+D
+
+exit
+grep "1997" finalSrk.csv 
+echo $PATH
+man nl
+man uniq
+cd Downloads/
+grep "1998" finalSrk.csv 
+bash
+vim .bashrc
+bash
+grep "1998" finalSrk.csv 
+cd
+exit
+which open
+cd /bin
+vim chrome
+ls
+cd bin
+cd ~/bin
+vim chrome
+cd
+chrome
+cd bin
+vim chrome
+chrome
+cd
+chrome
+vim chrome
+cd bin
+vim chrome
+chrome
+vim chrome
+cd
+vim .bash_profile
+chrome
+vim .bash_profile
+vim ~/bin/chrome 
+/usr/bin/open -a "/Applications/Google\ chrome.app"
+/usr/bin/open -a "/Applications/Google\ Chrome.app"
+/usr/bin/open -a "~/Applications/Google\ Chrome.app"
+open "~/Applications/Google\ Chrome.app"
+open -na "Google Chrome" --args --new-window "https://georgegarside.com"
+open -na "Google Chrome" --args --new-window "https://google.com"
+open -na "Google Chrome" --args  "https://google.com"
+open -na "Google Chrome" --args  "https://google.com"
+cd Downloads/
+grep "1998" finalSrk.csv 
+grep -il "func" *.dtn
+grep -il "func" *.dtn|grep -A1 "^["PUS
+grep -il "func" *.dtn|grep -A1 -i "^["PUSH"]
+grep -il "func" *.dtn | grep -A1 -i "^["PUSH"]
+grep -il "func" *.dtn | grep -A1 -i "^["PUSH"] *.dtn
+grep -A1 -i "func" *.dtn
+grep -A1 -i "func" *.dtn|grep "^[PUSH]
+grep -A1 -il "func" *.dtn | grep "^[PUSH]
+grep -A1 -il "func" *.dtn 
+grep -A1 -i "func" *.dtn 
+grep -A1 -i "func" *.dtn |grep -i "push"
+grep -A1 -i "func" *.dtn |grep -i "push"|cut -d '-' -f2
+grep -A1 -i "func" *.dtn |grep -i "push"|cut -d '-' -f2|cut -f1
+grep -A1 -i "func" *.dtn |grep -i "push"|cut -d '-' -f2|cut-d -f1
+grep -A1 -i "func" *.dtn |grep -i "push"|cut -d '-' -f2|cut -d -f1
+grep -A1 -i "func" *.dtn |grep -i "push"|cut -d '-' -f2|cut -d ' ' -f1
+
+grep -A1 -i "func" *.dtn |grep "push"
+grep -A1 -i "func" *.dtn |grep -i "push"
+grep -A1 -i "func" *.dtn |grep -i "push"| cut -d '-' -f1
+grep -A1 -i "func" *.dtn |grep -i "push"| cut -d '-' -f1|uniqc
+cd
+cd App
+ls
+cd Downloads/
+vim
+cd
+ls
+cd Downloads/
+grep "the" practce
+ls
+grep "the" practice
+grep "the  " practice
+grep "the " practice
+grep "\<the\>" practice
+grep "\<the|that\>" practice
+grep "\<the\|that\>" practice
+grep "\<\(the\|that\)\>" practice
+grep -E "<the|that>" practice
+grep -E "the that" practice
+grep -E "the| that" practice
+grep -E "the,that" practice
+grep -E "\<(the|that)\>" practice
+man grep
+cd
+cd Applications/
+ls
+ls
+cd
+cd App
+cd Applications/
+cd
+ls
+vim .bash_profile
+ls
+chmod +x chrome
+vim .bash_profile
+mv chrome bin/
+cd bin
+ls
+cd
+rm chrome
+ls
+vim .bash_profile
+chrome
+cd bin
+cat chrome
+vim chrome
+chrome
+vim chrome
+chrome
+ls -l chrome
+cd
+chrome
+vim chrome
+vim bash_profile
+cd
+vim bash_profile
+chrome
+cat /bin/chrome
+cat bin/chrome
+cd bin
+vim chrome
+chrome
+cd
+chrome
+cd bin
+vim chrome
+open -na "Google Chrome" "https://google.com"
+cd bin
+vim .bash_profile
+vim chrome
+chrome
+vim chrome
+cd
+vim .bash-profile
+echo $PATH
+vim

@@ -1,0 +1,529 @@
+cd bin
+vim chrome
+chrome
+chrome
+vim .bash_profile
+cd bin
+vim chrome
+chrome
+'
+chrome
+exit
+chrome
+vim .bashrc
+bash
+vim chrome
+cd bin
+vim chrome
+man open
+cd
+grep "a' 
+Downloads
+
+ vikram_palindrome
+
+cd Downloads/
+man grep
+grep -c3 "1998" finalSrk.csv 
+grep -C3 "1998" finalSrk.csv 
+cd 
+ls
+cp ~/finalsrk.csv work/
+cp ~/finalsrk.csv/ work/
+cd final
+cp Downloads/finalSrk.csv work
+cd work
+ls
+man grep
+grep -f "1998" finalSrk.csv 
+grep -f  finalSrk.csv 
+grep "qoo9" finalSrk.csv 
+cat final
+ls
+cat finalSrk.csv 
+grep "qoo9" finalSrk.csv 
+grep"1998" finalSrk.csv 
+grep "1998" finalSrk.csv 
+grep -f finalSrk.csv 
+grep -f  finalSrk.csv 
+grep - f ","  finalSrk.csv 
+grep 1998 f finalSrk.csv 
+grep   f 1998 finalSrk.csv 
+cp ~/Downloads/practice ~/work/
+work
+chrome
+cd work
+ls
+grep "the" f practice
+grep "<the>" f practice
+grep "\<the\>" f practice
+grep "\<the\>" F practice
+grep "<the>" F practice
+grep "the" F practice
+man grep
+grep -H 19 finalSrk.csv 
+grep -h 19 finalSrk.csv 
+grep "^*[0-9]8
+D
+
+grep "^*[0-9]8
+D
+
+
+grep "^*[0-9]*," finalSrk.csv 
+grep "^[a-z]*[0-9]*," finalSrk.csv 
+grep "^[a-z]*[0-9]*\," finalSrk.csv 
+grep "\^[a-z]*[0-9]*\," finalSrk.csv 
+grep "\^[a-z]*[0-9]*\," finalSrk.csv 
+grep "^[a-z]*[0-9]*," finalSrk.csv 
+grep -i "^[a-z]*[0-9]*," finalSrk.csv 
+grep -i "^[a-z][0-9]*," finalSrk.csv 
+grep -i "^[a-z]*[0-9]*," finalSrk.csv 
+grep "^D.*r$" finalSrk.csv 
+cat finalSrk.csv |pbcopy
+vim finalSrk.csv 
+grep "^D.*r$" finalSrk.csv 
+grep "*r$" finalSrk.csv 
+grep "*$r" finalSrk.csv 
+grep "*r$" finalSrk.csv 
+grep "^D.*r$" finalSrk.csv 
+grep "^[D.*r$]" finalSrk.csv 
+grep "^D.*r$" finalSrk.csv 
+vim dupfinalsrk
+grep "^D.*r$" dupfinalsrk 
+grep -i "^[a-z]*[0-9]*," dupfinalsrk 
+grep -i "^[a-z]\*[0-9]*," dupfinalsrk 
+grep -i "^[a-z][0-9]*," dupfinalsrk 
+grep -i "^[a-z].*[0-9]*," dupfinalsrk 
+grep -i "" dupfinalsrk 
+grep -i "^[a-z]* 
+grep -i "^[a-z]" dupfinalsrk 
+grep -i '^[a-z]' dupfinalsrk 
+grep -i '^[a-z]' dupfinalsrk 
+grep -i '^[a-z]' dupfinalsrk 
+grep -i '^[a-z][^a-z]' dupfinalsrk 
+grep -i '^[a-z] ' dupfinalsrk 
+grep -i '^[a-z]' dupfinalsrk 
+grep ^. dup
+grep ^. dupfinalsrk 
+grep ^.*, dupfinalsrk 
+grep -i "[a-z]" dupfinalsrk 
+grep -i "^[a-z]" dupfinalsrk 
+grep -i "[a-z]" dupfinalsrk 
+grep -i "^[a-z]" dupfinalsrk 
+grep -i "^[a-z]" dupfinalsrk 
+grep -i "^[abc]" dupfinalsrk 
+man grep
+grep "^[A-Za-z]
+"
+grep "^[A-Za-z]" dupfinalsrk 
+grep "^[A-Za-z]
+D
+
+wc -l finalSrk.csv 
+cd ~/Downloads/
+wc -l film
+wc -l filmography.csv 
+wc -l filmography.csv | cut -d ' ' -f1
+wc -l filmography.csv | cut -d ' ' -f2
+wc -l filmography.csv | cut -d ' ' -f1
+wc -l filmography.csv | cut -d '    ' -f1
+wc -l filmography.csv | cut -d ' ' -f1
+grep "actor" filmography.csv 
+grep "1998" filmography.csv 
+grep 'actor' filmography.csv 
+grep -i 'actor' filmography.csv 
+man grep
+grep -m num filmography.csv 
+grep -mnum filmography.csv 
+man grep
+grep --max-count=num filmography.csv 
+grep --max-count=num filmography.csv 
+man grep
+grep -n filmography.csv 
+grep -n"Actor" filmography.csv 
+grep -mnap"Actor" filmography.csv 
+man grep
+grep --mmap filmography.csv 
+grep --mmap"Actor" filmography.csv 
+grep --context filmography.csv 
+grep --context "Actor" filmography.csv 
+sort -t ',' -nk2 filmography.csv 
+sort -t ',' -nk2 filmography.csv |grep -c 
+sort -t ',' -nk2 filmography.csv |grep -c '[0-9]
+
+
+sort -t ',' -nk2 filmography.csv |grep -c '[0-9]'
+sort -t ',' -nk2 filmography.csv |grep -c '[0-9]'
+sort -t ',' -nk2 filmography.csv 
+sort -t ',' -nk2 filmography.csv | wc -l 
+sort -t ',' -nk2 filmography.csv |grep -c '[a-z]'
+sort -t ',' -nk2 filmography.csv |cut -d ',' -f2
+sort -t ',' -nk2 filmography.csv |cut -d ',' -f2|sort -n
+sort -t ',' -nk2 filmography.csv |cut -d ',' -f2|sort -n|uniq -c
+sort -t ',' -nk2 filmography.csv |cut -d ',' -f2|sort -n|uniq -c|uniq
+sort -t ',' -nk2 filmography.csv |cut -d ',' -f2|sort -n|uniq -c|sort -nr
+sort -t ',' -nk2 filmography.csv |cut -d ',' -f2|sort -n|uniq -c|sort -nr|head -n1
+cut -d ',' -f2|sort -n|uniq -c|sort -nr|head -n1
+cut -d ',' -f2 filmography.csv|sort -n|uniq -c|sort -nr|head -n1
+cut -d ',' -f2 filmography.csv|sort -n|uniq -c|sort -nr|head -n1|cut -d ',' -f2
+cut -d ',' -f2 filmography.csv|sort -n|uniq -c|sort -nr|head -n1|cut -d ' ' -f2
+cut -d ',' -f2 filmography.csv|sort -n|uniq -c|sort -nr|head -n1|cut -d '  ' -f2
+cut -d ',' -f2 filmography.csv|sort -n|uniq -c|sort -nr|head -n1|cut -d '  ' -f7
+cut -d ',' -f2 filmography.csv|sort -n|uniq -c|sort -nr|head -n1|cut -d ' ' -f7
+sort -t ',' -nk5 filmography
+sort -t ',' -nk5 filmography.csv 
+sort -t ',' -nk5 filmography.csv |cut -d ',' -f5
+sort -t ',' -nk5 filmography.csv |cut -d ',' -f5|uniq
+cut -d ','5 -f5 filmography.csv |sort 
+cut -d ',' -f5 filmography.csv |sort 
+cat cut -d ',' -f5 filmography.csv |sort |uniq
+cat filmo
+cat filmography.csv 
+grep "playback singer" filmography.csv 
+grep-lc "playback singer" filmography.csv 
+grep-l "playback singer" filmography.csv 
+grep -lc "playback singer" filmography.csv 
+grep -l "playback singer" filmography.csv 
+grep -lf "playback singer" filmography.csv 
+grep -l "playback singer" -f filmography.csv 
+grep -l "playback singer" filmography.csv 
+grep -L "playback singer" filmography.csv 
+grep - "[playback singe]r" filmography.csv 
+grep - "[playback singer]" filmography.csv 
+grep - "["playback singer"]" filmography.csv 
+grep "["playback singer"]" filmography.csv 
+grep "["playback/singer"]" filmography.csv 
+grep "^[playback/singer"]" filmography.csv 
+
+D
+
+grep "^[playback/singer"]" filmography.csv 
+
+D
+
+
+grep "playback singer" filmography.csv |wc -l
+grep  -B -i " kuch kuch hota hai" filmography.csv 
+grep  -B "Kuch kuch hota hai" filmography.csv 
+grep  -B5 "Kuch kuch hota hai" filmography.csv 
+grep -B "Kuch kuch hota hai" filmography.csv 
+grep "Kuch kuch hota hai" filmography.csv 
+grep "Kuch Kuch Hota Hai" filmography.csv 
+grep -B "Kuch Kuch Hota Hai" filmography.csv 
+grep -B10 "Kuch Kuch Hota Hai" filmography.csv 
+grep -c "Kuch Kuch Hota Hai" filmography.csv 
+grep -Bc "Kuch Kuch Hota Hai" filmography.csv 
+grep -BC "Kuch Kuch Hota Hai" filmography.csv 
+grep -C "Kuch Kuch Hota Hai" filmography.csv 
+grep -c "Kuch Kuch Hota Hai" filmography.csv 
+grep -b "Kuch Kuch Hota Hai" filmography.csv 
+man grep
+grep "Karan Johar" filmography.csv 
+grep "Karan Johar" filmography.csv |wc -l
+grep -i '^[a-z] ' filmography
+grep -i '^[a-z] ' filmography.csv 
+grep -i '^[a-z]' filmography.csv 
+grep -i '^[a-z]* ' filmography.csv 
+grep -i '^[a-z] *' filmography.csv 
+grep -i '^[a-z].* ' filmography.csv 
+grep -i '^[a-z]. ' filmography.csv 
+grep -i '^[a-z].*, ' filmography.csv 
+grep -i '^[a-z].* ' filmography.csv 
+grep -i '^[a-z].*^[ ] ' filmography.csv 
+grep -i '^[a-z].*^[ ]' filmography.csv 
+grep '<1995\>|<1996>' filmo
+grep '<1995\>|<1996>' filmography.csv 
+grep '<1995>' filmography.csv 
+grep "<1995>" filmography.csv 
+grep "<1995>\|<1996>" filmography.csv 
+grep "\<1995\>\|\<1996\>" filmography.csv 
+grep -v "\<1995\>\|\<1996\>" filmography.csv 
+grep -v "\<1995\>\|\<1996\>" filmography.csv | grep "199"
+grep -v "\<1995\>\|\<1996\>" filmography.csv | grep "199"|wc -l
+grep grep -v "\<1995\>\|\<1996\>" filmography.csv | grep "199"| cut -d ',' -f1
+grep "Rahul" filmography.csv 
+grep "Rahul" filmography.csv |cut -d ',' -f1
+ grep ",Rahul," filmography.csv 
+cut -d ',' -f4 filmography.csv 
+cut -d ',' -f1,4 filmography.csv 
+cut -d ',' -f1,4 filmography.csv | sort "Rahul"
+cut -d ',' -f1,4 filmography.csv | grep "Rahul"
+cut -d ',' -f1,3 filmography.csv | grep "Rahul"
+cut -d ',' -f1,3 filmography.csv 
+cut -d ',' -f1,4 filmography.csv 
+cut -d ',' -f1,4 filmography.csv |grep -i "rahul"
+cut -d ',' -f1
+cut -d ',' -f1 filmography.csv 
+cut -d ',' -f1 filmography.csv |grep -v "e"
+Lcut -d ',' -f1 filmography.csv |grep -v "e"|wc -l
+cut -d ',' -f1 filmography.csv |grep "[aeiou]"
+cut -d ',' -f1 filmography.csv |grep "[a]e\i\o\u"
+cut -d ',' -f1 filmography.csv |grep "[a]eiou"
+cut -d ',' -f1 filmography.csv |grep "[a][eiou]"
+cut -d ',' -f1 filmography.csv |grep -i "[aeiou][aeiou]"
+cut -d ',' -f1 filmography.csv |grep -i "[aeiou][aeiou]"|wc -l
+grep -vi "D" filmography.csv 
+cut -d ',' -f1 filmography.csv 
+cut -d ',' -f1,2 filmography.csv | grep -iv "^[D]"
+cut -d ',' -f1,2 filmography.csv | grep -iv "^[D]"|grep "2000"
+cut -d ',' -f1,2 filmography.csv | grep -iv "^[D]"|grep "200*"
+cut -d ',' -f1,2 filmography.csv | grep -iv "^[D]"|grep "200*"|wc -l
+cut -d ',' -f1,2 filmography.csv | grep -iv "^[D]"|grep "200*"|wc -l
+cut -d ',' -f1,2 filmography.csv | grep -v "^[D]"|grep "200*"|wc -l
+cut -d ',' -f1,2 filmography.csv | grep  "^[D]"|grep "200*"|wc -l
+cut -d ',' -f1,2 filmography.csv | grep  "^[A-Z]"|grep "200*"|wc -l
+lcut -d ',' -f1,2 filmography.csv | grep -v "^[D]"|grep "200*"|wc -l
+cut -d ',' -f2 filmography.csv 
+cut -d ',' -f2 filmography.csv |sort -nr
+cut -d ',' -f2 filmography.csv |sort -nr| uniq
+cut -d ',' -f2 filmography.csv |sort -nr| uniq -c
+cut -d ',' -f2 filmography.csv |sort -nr| uniq -c| sort -n
+cut -d ',' -f2 filmography.csv |sort -nr| uniq -c| sort -n |cut -d ' ' -f2
+cut -d ',' -f2 filmography.csv |sort -nr| uniq -c| sort -n |cut -d ' ' -f1
+cut -d ',' -f2 filmography.csv |sort -nr| uniq -c| sort -n |cut -d ' ' -f2
+cut -d ',' -f2 filmography.csv |sort -nr| uniq -c| sort -n |cut -d ' ' -f3
+cut -d ',' -f2 filmography.csv |sort -nr| uniq -c| sort -n |cut -d ' ' -f7
+cut -d ',' -f2 filmography.csv |sort -nr| uniq -c| sort -n |cut -d ' ' -f5
+cut -d ',' -f2 filmography.csv |sort -nr| uniq -c| sort -n 
+cut -d ',' -f2 filmography.csv |sort -r| uniq -c| sort -n |tail -n1
+cut -d ',' -f2 filmography.csv |sort -r| uniq -c| sort -n |tail -n1|cut -d ' ' -f5
+grep -i "^[a-z][a-z]" filmography.csv 
+grep -i "^[a-z][a-z] " filmography.csv 
+grep -i "^[a-z] [a-z] " filmography.csv 
+grep -i "^[a-z] [a-z]" filmography.csv 
+cgrep -i "[a-z] [a-z]" filmography.csv 
+cut -d ',' -f1
+cut -d ',' -f1 filmography.csv 
+cut -d ',' -f1 filmography.csv |grep -i "^[a-z][a-z]* "
+cut -d ',' -f1 filmography.csv |grep -i "^[a-z][a-z] "
+cut -d ',' -f1 filmography.csv |grep -i "^[a-z][a-z], "
+grep "^[a-z]," filmography.csv 
+grep "^[a-z]*," filmography.csv 
+grep "^[a-z][a-z]*," filmography.csv 
+grep "^[a-z][a-z]*" filmography.csv 
+grep "^[a-z][a-z]*" filmography.csv 
+grep "^[a-z][a-z]* ," filmography.csv 
+grep -i "^[a-z][a-z]* ," filmography.csv 
+grep -i "^[a-z][a-z]*," filmography.csv 
+grep -i "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+grep -i "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+grep -B ""
+grep -B5 "Veer-Zaara" film
+grep -B5 "Veer-Zaara" filmography.csv 
+grep -B5 "Veer-Zaara" filmography.csv 
+grep -B5 "Veer-Zaara" filmography.csv 
+grep -B5 "Veer-Zaara" filmography.csv |grep -v "Veer-Zaara"
+grep -B5 "Veer-Zaara" filmography.csv |grep -v "Veer-Zaara"|cut -d ',' -f1
+grep -B "Kuch Kuch Hota Hai" filmography.csv 
+grep -b "Kuch Kuch Hota Hai" filmography.csv 
+grep  "Kuch Kuch Hota Hai" filmography.csv 
+grep "Kuch Kuch Hota Hai" filmography.csv man gr
+,an grep
+man grep
+grep -B* "Kuch Kuch Hota Hai" filmography.csv 
+grep -B\* "Kuch Kuch Hota Hai" filmography.csv 
+grep -B'*' "Kuch Kuch Hota Hai" filmography.csv 
+grep -'B*' "Kuch Kuch Hota Hai" filmography.csv 
+man grep
+sort -n filmography.csv 
+sort -t ',' -nk2
+sort -t ',' -nk2 filmography.csv 
+sort -t ',' -nk2 filmography.csv |grep -C "Kuch Kuch Hota Hai"
+sort -t ',' -nk2 filmography.csv |grep - "Kuch Kuch Hota Hai"
+grep -' filmography.csv 
+man grep
+grep -bi "[a-z]
+grep -i "[a-z]" filmography.csv 
+man grep
+grep -o '[a-z]' filmo
+grep -o '[a-z]' filmography.csv 
+grep -o '[a-z]' filmography.csv |sort
+grep -o '[a-z]' filmography.csv |sort|uniq -c
+grep -o '[a-z]' filmography.csv |sort|uniq -c|sort -nr
+grep -o '[a-z]' filmography.csv |sort|uniq -c|sort -nr
+grep -o '[a-z]' filmography.csv |sort|uniq -c|sort -nr|head -n1
+grep -o '[a-z]' filmography.csv |sort|uniq -c|sort -nr|head -n1|cut -d' ' -f3
+grep -n "Kuch Kuch Hota Hai" filmography.csv 
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" 
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" 
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f2
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f2|cut -d' ' -f3
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f2|cut -d' ' -f3
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f4
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f5
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f6
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f7
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f8
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f10
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f12
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f14
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ':' -f15
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ' ' -f15
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ' ' -f10
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ' ' -f4
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ' ' -f3
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ' ' -f2
+nl -v0 filmography.csv | grep -n "Kuch Kuch Hota Hai" |cut -d ' ' -f1
+grep "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]" filmography.csv 
+grep "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]" filmography.csv 
+grep "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]" filmography.csv 
+grep "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]" filmography.csv |wc -l
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]" filmography.csv |wc -l
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz]\{2,3\}" filmography.csv |wc -l
+grep -iE "[aeiou][bcdfghjklmnpqrstuvwxyz]{2,3}" filmography.csv |wc -l
+grep -iE "([aeiou][bcdfghjklmnpqrstuvwxyz]){2,3}" filmography.csv |wc -l
+grep -oiE "([aeiou][bcdfghjklmnpqrstuvwxyz]){2,3}" filmography.csv |wc -l
+grep -oiE "([aeiou][bcdfghjklmnpqrstuvwxyz]){2,3}" filmography.csv 
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]*" filmography.csv |wc -l
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]*" filmography.csv 
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]*|[aeiou][^bcdfghjklmnpqrstuvwxyz]" filmography.csv
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]*|[aeiou][^bcdfghjklmnpqrstuvwxyz]" filmography.csv|wc -l
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][^bcdfghjklmnpqrstuvwxyz]" filmography.csv|wc -l
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz]*|[aeiou][^bcdfghjklmnpqrstuvwxyz]" filmography.csv|wc -l
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][^bcdfghjklmnpqrstuvwxyz]" filmography.csv|wc -l
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][^bcdfghjklmnpqrstuvwxyz]" filmography.csv 
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][aeiou\,\.\!\ ]" filmography.csv 
+grep -i "[aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][bcdfghjklmnpqrstuvwxyz][aeiou][aeiou]" filmography.csv {2,4}
+grep -iE "[aeiou][bcdfghklmnpqrstuvwxyz]{1,1}" filmography.csv 
+grep -iE "[aeiou][bcdfghklmnpqrstuvwxyz]{,1}" filmography.csv 
+grep -iE "[aeiou][bcdfghklmnpqrstuvwxyz]{0,1}" filmography.csv 
+grep -iE -v "[aeiou][bcdfghklmnpqrstuvwxyz]{1,2}" filmography.csv 
+grep -iEv "[aeiou][bcdfghklmnpqrstuvwxyz]{1,2}" filmography.csv 
+grep -iEv "([aeiou][bcdfghklmnpqrstuvwxyz]){1,}" filmography.csv 
+grep -iEv "([aeiou][bcdfghklmnpqrstuvwxyz]){1,}" filmography.csv 
+grep -ivE "([aeiou][bcdfghklmnpqrstuvwxyz]){1,}" filmography.csv L
+cd
+cd work
+echo "abc" > alpha 
+tr alpha [:lower:] [:upper:]
+tr abc def 
+echo abc > tr abc def
+echo abc
+echo "abc" > tr abc def
+echo "abc" > tr "abc" "def"
+man tr
+echo "abc" > tr [:lower:] [:upper:]
+echo abc > tr [:lower:] [:upper:]
+echo "abc" | tr [:lower:] [:upper:]
+echo "abc" | tr "abc" "def"
+tr abc def < alpha
+tr [:alpha:] [:num:] <alpha
+man tr
+tr [:alpha:] [:digit:] <alpha
+tr [:alpha:] [:digit:] <alpha
+echo "vikram" |tr [:alpha:] [:digit:] 
+tr [:alpha:] [:digit:] <alpha
+chrome
+chrome
+echo chrome
+echo $chrome
+alias
+echo "vikram is a good boy okfilmography.csv|wc -l got it" |tr [:alpha:] [:1234567:] 
+echo "vikram is a good boy okfilmography.csv|wc -l got it" |tr [:alpha:] 1234567 
+echo "vikram is a good boy ok  got it" |tr [:alpha:] 1234567 
+sed /s/dil/dimag/g finalSrk.csv 
+sed "/s/dil/dimag/g" finalSrk.csv 
+sed "s/dil/dimag/g" finalSrk.csv 
+sed "s/dil/dimag/g" finalSrk.csv |grep "dimag"
+sed "s/Dil/dimag/g" finalSrk.csv |grep "dimag"
+sed "s/Dil/chunauti/g" finalSrk.csv |grep "dimag"
+sed "s/Dil/chunauti/g" finalSrk.csv |grep "chunauti"
+sed "s/Dil/chunautiya/g" finalSrk.csv |grep "chunautiya"
+sed "s/Dil/chutiya/g" finalSrk.csv |grep "chutiya"
+sed "s/Dil/bd/g" finalSrk.csv |grep "bd to"
+sed "s/Dil/bd/g" finalSrk.csv |grep "bd To"
+sed "s/Dil/bd/g" finalSrk.csv |grep "bd To"
+sed "s/Dil/bd/g" finalSrk.csv |grep "bd To"
+sed "s/Dil/paji/g" finalSrk.csv |grep paji To"
+sed "s/Dil/paji/g" finalSrk.csv |grep "paji To"
+sed "1,4 s/Dil/aatma/g" finalSrk.csv 
+sed "1,3 s/Dil/aatma/g" finalSrk.csv mna
+man sed
+man sed
+echo "fE 0b4 8Dd4BB864Dd" > decode
+tr abc a-z < decode
+tr [abc] [a-z] < decode
+tr [:alphanumeric:] [:alpha:] < decode
+man tr
+tr [:alnum:] [:alpha:] < decode
+tr 8Dd4BB864Dd INTELLIGENT < decode 
+tr 8Dd4BB864Ddf INTELLIGENTH < decode 
+tr [:xalpha:] [:alpha:] < decode
+tr [:xalpha/:] [:alpha:] < decode
+man tr
+tr [:xdigit:] [:alpha:] < decode
+tr 8Dd4BB864Dd INTELLIGENT < decode 
+tr 8Dd4BB864Ddf INTELLIGENTW < decode 
+tr 8Dd4BB864Ddf0 INTELLIGENTWA < decode 
+tr 8Dd4BB864Ddf0b INTELLIGENTWAR < decode 
+tr 8Dd4BB864Ddf0b INTELLIGENTWAR < decode 
+rm decode
+ls
+echo " Jehisbw jso9dh363949bd" > decode
+echo " Jehisbw jso9dh363949bd" > decode
+echo "fE 0b4 8Dd4BB864Dd" > decode
+tr [:alnum:] [:alpha:] < decode
+tr 8Dd4BB864Ddf INTELLIGENTW < decode 
+tr 8Dd4BB864Ddf0b INTELLIGENTWAR < decode 
+echo " Jehisbw jso9dh363949bd" > sudipta
+tr [:alnum:] [:alpha:] < sudipta
+tr [:xalpha:] [:alpha:] < sudipta
+man tr
+tr [:digit:] [:alpha:] < sudipta
+fEe 0b4 8Dd4BB864Dd > ragini
+echo "fEe 0b4 8Dd4BB864Dd" > ragini
+tr [:alnum:] [:alpha:] < ragini
+tr [:xdigit:] [:alpha:] < ragini
+man tr
+Cut
+cut -d ',' -f1,2 filmography.csv | grep -v "^[D]"|grep "200*"|wc -l
+cut -d ',' -f1,2 filmography.csv | grep -v "^[D]"|grep "200*"|wc -l
+cd
+cd download
+cd downloadcd Downloads/
+cd Downloads/
+cut -d ',' -f1,2 filmography.csv | grep -v "^[D]"|grep "200*"|wc -l
+grep -c "^[^D].*,20[01][0-9]" filmography.csv
+cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ grep -i "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+ cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ grep -i "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1|wc -l
+ cut -d',' -f1 filmography.csv | grep -ix '^[^ .-]\+'
+vsplit
+vim
+grep -i "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+grep -ic "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+grep -ic "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+vim .bash_profile
+ls
+cd work 
+ls
+rm dupfinalsrk 
+rm alpha
+rm decode 
+rm homework
+rm practice 
+rm ragini 
+rm sudipta 
+rm tr
+ls
+cd homework/
+rmdir homework
+ls
+rmdir test
+rm test
+cd../
+cd ../
+rmmdir homework/
+rmdir homework/
+ls
+cd ~/bin
+ls
+alias ls
+alias ls=ls -G
+alias ls="ls -G"
+ls

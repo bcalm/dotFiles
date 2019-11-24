@@ -1,0 +1,64 @@
+cd work
+cd vikram
+cd ../vikram
+cat ../Downloads/vikram >> work/mydata
+cat ../Downloads/vikram > work/mydata
+cat ../downloads/vikram
+cat ../Dowmloads
+cat ../Downloads/
+cat ../Downloads/vikram
+cd ../dowmloads
+cd ../Downloads/
+cat vikram
+cd ../work
+cat ../vikram > work/mydata
+echo "vikram" > mydata
+cd ../downloads
+cat ../work/mydata
+cat ../downloads/vikram >>work/mydata
+cat ../downloads/vikram >> ../work/mydata
+cat ../vikram >> ../work/mydata
+cat vikram
+cat ../work/mydata
+ls ~/downloads/vikram_square.dtn >> ../work/mydata
+cat ../work/mydata
+cat ~/downloads/vikram_square.dtn >> ../work/mydata
+cat ../work/mydata
+cd ../work
+mkdir -p work/step7/projects/assignment
+tree
+ls
+cd step7
+man mkdir
+mkdir -p work/mydata/step7/projects/assignment
+cd mydata
+cat mydata
+mkdir -p work/step7/projects/assignment
+ls
+cd work
+ls
+cd step7
+ls
+ls projects/assignment/
+ls projects/
+cp mydata assignment
+cd assignments
+cd work
+pwd
+rmdir work
+cd ../../../../
+pwd
+cd work
+ls
+cd /step16/work
+pwd
+cd work
+ls
+cd step16/
+ls
+cd work/
+ls
+rmdir work
+ls
+cd work
+ls

@@ -1,0 +1,500 @@
+Downloads/
+cd Downloads/
+ls
+cd ../dtn
+mv ~/*dtn .
+cd
+ls
+ls
+ls |grep -l "dtn"
+ls
+cd Downloads/
+ls
+cd
+ls
+cd dtn'
+cd dtn
+ls
+cd
+rmdir work
+cd work
+ls
+rm 1/even.awk/mul/sum_practice/text/
+rm 1
+rm even.awk
+rm mul
+rm sum_practice 
+rm average_of_number 
+rm finalSrk.csv 
+rm sum
+rm text
+ls
+mv assignment/bin/awk/dtn
+mv assignment/bin/awk/dtn .
+la
+ls
+cd
+ls
+cd
+cd work
+pwd
+ls
+mv ~/assignments/ .
+ls
+mv ~/bin/ .
+ls
+mv ~/awk/ .
+ls
+mv ~/dtn/ .
+ls
+mkdir tmp
+ls
+cd dtn
+ls
+grep 
+grep " a" cube_mul_push.dtn 
+vim .bashrc
+cd
+vim .vimrc
+vim .bashrc
+vim .bash_profile 
+ls
+echo $PATH
+vim 
+awk '{int (6,12)}' scores
+cd Downloads/
+awk '{int (6,12)}' scores
+awk '{int }' scores
+awk '{int 5 }' scores
+awk '{rand (1, 5) }' scores
+awk '{rand (1,5) }' scores
+awk '{rand  }' scores
+awk '{rand  }' scores
+awk '{srand(1,5)  }' scores
+awk '{substr (5,1, ",")  }' scores
+awk '{for ( i=0; i<=5; i++z) sprintf $i}' scores
+awk '{for ( i=0; i<=5; i++) sprintf $i}' scores
+awk '{for ( i=0; i<=5; i++) print $i}' scores
+awk '{for ( i=0; i<=5; i++) sprintf $i}' scores
+man awk |grep print
+awk '{for ( i=1; i<=5; i++) printf $i}' scores
+awk '{for ( i=1; i<=5; i++) print $i}' scores
+awk -F',' '{for ( i=1; i<=5; i++) print $i}' scores
+awk -F',' '{for ( i=1; i<=5; i++) printf $i}' scores
+man awk |grep print
+awk -F',' '{for ( i=1; i<=5; i++) print f $i}' scores
+awk -F',' '{for ( i=1; i<=5; i++) printf  $i}' scores
+man awk
+awk -F',' '{ORS for ( i=1; i<=5; i++) printf  $i}' scores
+awk -F','-ORS '{ for ( i=1; i<=5; i++) printf  $i}' scores
+awk -F',' '{ for ( i=1; i<=5; i++) printf  $i}' -ORS scores
+awk -F',' '{ for ( i=1; i<=5; i++) -ORS printf  $i}'  scores
+awk -F',' '{BEGIN ORS = "START STOP}{ for ( i=1; i<=5; i++) printf  $i}'  scores
+awk -F',' '{BEGIN ORS = "START STOP"}{ for ( i=1; i<=5; i++) printf  $i}'  scores
+awk -F',' '{BEGIN ORS = ""}{ for ( i=1; i<=5; i++) printf  $i}'  scores
+awk -F',' '{BEGIN ORS = " "}{ for ( i=1; i<=5; i++) printf  $i}'  scores
+awk -F',' '{BEGIN ORS = " "} { for ( i=1; i<=5; i++) printf  $i}'  scores
+awk -F',' '{BEGIN ORS =" "} { for ( i=1; i<=5; i++) printf  $i}'  scores
+awk -F',' '{BEGIN ORS=" "} { for ( i=1; i<=5; i++) printf  $i}'  scores
+awk -F',' '{BEGIN ORS=""} { for ( i=1; i<=5; i++) printf  $i}'  scores
+awk -F',' 'BEGIN{ ORS=""} { for ( i=1; i<=5; i++) printf  $i}'  scores
+awk -F',' 'BEGIN{ ORS=""} { for ( i=1; i<=5; i++) printf  $i ","; print ""}'  scores
+awk -F',' 'BEGIN{ ORS=""} { for ( i=1; i<=5; i++) printf  $i ","; print "";}'  scores
+awk -F',' 'BEGIN{ O{for(i=1; i<=5; i++){ printf $i","} print "";}'  scores
+awk -F',' 'BEGIN{ O{for(i=1; i<=5; i++){ printf $i",";} print "";}'  scores
+awk -F',' 'BEGIN{ O{for(i=1; i<=5; i++){ printf $i","}}'  scores
+awk -F',' '{for(i=1; i<=5; i++){ printf $i","}}'  scores
+awk -F',' '{for(i=1; i<=5; i++){ printf $i","}} print""'  scores
+awk -F',' '{for(i=1; i<=5; i++){ printf $i","} print""}'  scores
+awk -F',' '{ i=1; print $i; for(i=2; i<=5; i++){ printf ","$i} print""}'  scores
+awk -F',' '{ i=1; printf $i; for(i=2; i<=5; i++){ printf ","$i} print""}'  scores
+awk -F',' '{ i=3; printf $i; for(i=4; i<=7; i++){ printf ","$i} print""}'  scores
+awk -F',' '{ i=3; printf $i; for(i=4; i<=12; i++){ printf ","$i} print""}'  scores
+awk -F',' '{for(i=1; i<=5; i++){ printf $i","}} print""'  scores
+awk -F',' '{ i=1; printf $i; for(i=2; i<=5; i++){ printf ","$i} print""}'  scores
+awk -F',' '{ print$2-$1}' scores 
+awk -F',' '{ print $2-$1}' scores 
+awk -F',' '{ print$2"-"$1}' scores 
+awk -F',' '{ print $1","$3",'$4","$5","$6} scores
+awk -F',' '{ print $1","$3",'$4","$5","$6}' scores
+awk -F',' '{ print $1 "," $3 "," $4 "," $5 "," $6}' scores
+awk -F',' '{ print $2 "," $9 }' scoresm
+awk -F',' '{ print $2 ","  awk -F',' '{ print $1 "," $3 "," $4 "," $5 "," $6}' scoresu$9 }' scores
+man awk
+man awk
+awk -F ',' '{NR <=10 print}' scores 
+awk -F ',' '{NR <= 10 print}' scores 
+awk -F ',' '{ NR <= 10 print}' scores 
+awk -F ',' '{ (NR <= 10) print}' scores 
+awk -F ',' ' (NR <= 10) {print}' scores 
+awk -F ',' ' (NR >= 10) {print}' scores 
+awk -F ',' ' (NR > 10) {print}' scores 
+awk -F ',' ' (NR > 10 <=20) {print}' scores 
+awk -F ',' ' (NR >10 <=20) {print}' scores 
+awk -F ',' ' (20>=NR >10) {print}' scores 
+head scores 
+vi print_lines_11_to_20.awk
+awk -F"," -f print_lines_11_to_20.awk scores
+awk -F"," -f print_lines_11_to_20.awk scores
+head -11 scores 
+head -20 scores 
+cat print_lines_11_to_20.awk 
+vim print_lines_11_to_20.awk 
+awk -F"," -f print_lines_11_to_20.awk scores
+vim print_lines_11_to_20.awk 
+awk -F"," -f print_lines_11_to_20.awk scores
+awk -F"," -f print_lines_11_to_20.awk scores | grep Rahul
+vim print_lines_11_to_20.awk 
+awk -F"," -f print_lines_11_to_20.awk scores | grep Rahul
+awk -F"," -f print_lines_11_to_20.awk scores
+awk -F"," -f print_lines_11_to_20.awk scores |  wc -l
+awk -F"," -f print_lines_11_to_20.awk scores
+vim print_last_line.awk
+awk -F"," '{NR >10 && NR <21}' scores 
+vim print_last_line.a
+awk -F"," -f print_lines_11_to_20.awk scores
+vim print_lines_11_to_20.awk 
+awk -F"," '{(NR >10 && NR <21)}' scores 
+awk -F"," '(NR >10 && NR <21){print}' scores 
+awk -F"," '(NR !>10 && NR !<21){print}' scores 
+awk -F"," '!(NR >10 && NR <21){print}' scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+vim the_line_in_which_S_begins
+awk -F "," -f the_line_in_which_S_begins scores 
+vim the_line_in_which_S_begins
+awk -F "," '$1 ~ /^S/{print $0} scores 
+awk -F "," '$1 ~ /^S/{print $0}' scores 
+vim 
+vim more_than_50_in_maths
+cat scores
+vim more_than_50_in_maths
+awk -F"," -f more_than_50_in_maths scores 
+cat scores |grep "50"
+cat scores |grep "[5-9]
+cat scores |grep "[5-9]"
+awk -F"," -f more_than_50_in_maths scores 
+awk -F"," '$6 > 50 {print $2}' scores 
+vim more_than_50_in_maths
+awk -F"," -f more_than_50_in_maths scores 
+vim more_than_50_in_maths
+awk -F"," -f more_than_50_in_maths scores 
+vim more_than_50_in_maths
+awk -F"," -f more_than_50_in_maths scores 
+vim more_than_50_in_maths
+awk -F"," -f more_than_50_in_maths scores 
+vim more_than_50_in_maths
+awk -F"," -f more_than_50_in_maths scores 
+vim more_than_50_in_maths
+awk -F"," -f more_than_50_in_maths scores 
+cat scores
+awk -F",
+awk -F"," '$9 < 30 { print $0}' scores 
+awk -F"," '$9 < 30 { print $2}' scores 
+vim consecute vowel
+awk -F"," -f consecute scores 
+vim consecute vowel
+awk -F"," -f consecute scores 
+awk -F"," '$1 ~ /[aeiouAEIOU][aeiouAEIOU]' scores 
+awk -F"," '{$1 ~ /[aeiouAEIOU][aeiouAEIOU]/}' scores 
+awk -F"," '$1 ~ /[][aeiouAEIOU]/ {print $2}' scores 
+awk -F"," '$2 ~ /[aeiouAEIOU][aeiouAEIOU]/ {print $2}' scores 
+awk -F"," '{$1 ~ /[^aeiouAEIOU ]{3}/{print $2}' scores 
+awk -F"," '$2 ~ /[^aeiouAEIOU ]{3}/{print $2}' scores 
+awk -F"," '$2 ~ /[^aeiouAEIOU ]{3}/{print $9}' scores 
+awk -F"," '$2 ~ /[^aeiouAEIOU ]{3}/{print $9}' scores 
+cat countries.csv 
+awk -F"|" '$2 ~ [A$$S$$I$$A] {print $1} ' countries.csv 
+awk -F"|" '$2 ~ [ASIA] {print $1} ' countries.csv 
+awk -F"|" '$2 ~ /[ASIA]/ {print $1} ' countries.csv 
+awk -F"|" '$2 ~ /^[A][S][I][A]/ {print $1} ' countries.csv 
+awk -F"|" '$2 ~ /^[A][S][I][A]/ {print $1} ' countries.csv |wc -l
+awk -F"|" '$2 ~ /ASIA/ {print $1} ' countries.csv 
+awk -F"|" '$2 ~ /ASIA/ {print $1} ' countries.csv |nl
+awk -F"|" '$2 ~ /ASIA/ {print $1} ' countries.csv 
+awk -F"|" '$2 ~ /EUROPE/ {print $1} ' countries.csv 
+awk -F"|" '$2 ~ /EUROPE/ {print $1} ' countries.csv |nl
+awk -F"|" '$10 > 70 {print $1}' countries.csv 
+grep -i "india" countries.csv 
+awk -F"|" '$9 > 30000 {print $1}' countries.csv 
+awk -F"|" '{$9 > 20000 && $10<90 } {print $1}' countries.csv 
+vim maximum
+awk -F"|" -f maximum countries.csv 
+vim maximum
+awk -F"|" -f maximum countries.csv 
+vim maximum
+awk -F"|" -f maximum countries.csv 
+vim maximum
+awk -F"|" -f maximum countries.csv 
+vim maximum
+awk -F"|" -f maximum countries.csv 
+awk -F"|" '{max =0; country =0 } if (max < $3) {max =$3;  '
+ls
+grep "11" ls
+ls | grep "11"
+cat print_lines_11_to_20.awk 
+awk -F"|" '{max =0; country =0 } if (max < $3) {max =$3;country = $1 {print country} ' countries.csv 
+awk -F"|" 'BEGIN{max =0; country =0 } if (max < $3) {max =$3;country = $1 END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =0 ; country =0 } if (max < $3) {max =$3;country = $1} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max < $3) {max =$3;country = $1} END {print country}} ' countries.csv 
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max < $3) {max =$3;country = $1}} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max > $3) {max =$3;country = $1}} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max > $3) {max =$3;country = $1}} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =1/0 ; country =0 } {if (max > $3) {max =$3;country = $1}} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =$3 ; country =0 } {if (max > $3) {max =$3;country = $1}} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =$3 ; country =$1 } {if (max > $3) {max =$3;country = $1}} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =$3 ; country =$1 } {if (max > $3) {max =$3;country = $1}} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =$3 ; country =$1 } {if (max > $3) {max =$3;country = $1}} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max < $3) {max =$3}{max > $3; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max < $3) {max =$3}if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max < $3) {max =$3}if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max < $3) {max =$3}}{if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {max =$3} {if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if NR ==1(max =$3)} {if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if NR = 1(max =$3)} {if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if NR ==1(max =$3)} {if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (NR ==1){max =$3}} {if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (NR ==1){max =$3}} {if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max < $3) {max =$3;country = $1}} END {print country} ' countries.csv 
+awk -F"|" ' BEGIN {max =0 ; country =0 } {if (max < $4) {max =$4;country = $1}} END {print country} ' countries.csv 
+ awk -F"|" ' BEGIN {max =0 ; country =0 } {if (NR ==1){max =$3}} {if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+ awk -F"|" ' BEGIN {max =0 ; country =0 } {if (NR ==1){max =$3}} {if(max > $3) {max = $3 ; country =$1}} END {print country} ' countries.csv
+ awk -F"|" ' BEGIN {max =0 ; country =0 } {if (NR ==1){max =$4}} {if(max > $4) {max = $4 ; country =$1}} END {print country} ' countries.csv
+ awk -F"|" ' BEGIN {SUM =0} {Sum = SUM + $3} END {print sum}' countries.csv 
+ awk -F"|" ' BEGIN {SUM =0} {Sum = SUM + $4} END {print sum}' countries.csv 
+ awk -F"|" ' BEGIN {SUM =0} {SUM = SUM + $4} END {print SUM}' countries.csv 
+cat countries.csv 
+ awk -F"|" ' $4 == 0 {print $1}' countries.csv 
+ awk -F"|" ' $4 = 0 {print $1}' countries.csv 
+ awk -F"|" ' $4 == 0 {print $1}' countries.csv 
+ awk -F"|" 'if  $4 == 0 {print $1}' countries.csv 
+ awk -F"|" 'if  ($4 == 0) {print $1}' countries.csv 
+ awk -F"|" 'if  ($4 == 0);2D;2D;2D;2D;2D {print $1}' countries.csv 
+ awk -F"|" 'if  ($4 == 0) {print $1}' countries.cs;5D;5D;5D;5D;5D;5D;5Dv 
+ awk -F"|" '{if ($4 == 0) {print $1}}' countries.csv 
+ awk -F"|" '{if ($4 == 0.00) {print $1}}' countries.csv 
+ awk -F"|" '{if ($4 == 0) {print $1}}' countries.csv 
+ awk -F"|" '{if ($6 == 0) {print $1}}' countries.csv 
+ awk -F"|" '{$6 == 0{print $1}}' countries.csv 
+ awk -F"|" '{$6 == 0 {print $1}}' countries.csv 
+ awk -F"|" '{$6 == 0 {print $1}}' countries.csv 
+ awk -F"|" '{($6 == 0) {print $1}}' countries.csv 
+ awk -F"|" '$6 == 0 {print $1}' countries.csv 
+ awk -F"|" '$6 == 0 {print $1}' countries.csv 
+vim last_10_lines
+awk -F "," -f last_10_lines scores 
+vim last_10_lines
+awk -F "," -f last_10_lines scores 
+head -n40 scores 
+cat scores
+head -n30 scores 
+vim last_10_lines
+awk -F "," -f last_10_lines scores 
+vim last_10_lines
+awk -F "," -f last_10_lines scores 
+awk -F "," -f last_10_lines scores 
+vim last_10_lines
+awk -F "," -f last_10_lines scores 
+vim last_10_lines
+awk -F "," -f last_10_lines scores 
+man awk
+vim last_10_lines
+awk -F "," -f last_10_lines scores 
+vim last_10_lines
+awk -F "," -f last_10_lines scores 
+awk -F "," -f last_10_lines scores 
+awk -F"," 
+vim tail_10_lines
+man awk
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+cd vim .vimrc
+cd
+vim vim.rc
+vim .vimrc
+vim tail_10_lines
+cd Downloads/
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+awk -F"," -f tail_10_lines scores 
+vim tail_10_lines
+cat tail_10_lines 
+awk -F"," '{BEGIN{i=1} {ar[i]=$0 ; i++} END{for(a=i-10;a<i;a++)}}'scores
+awk -F"," '{BEGIN{i=1} {ar[i]=$0 ; i++} END{for(a=i-10;a<i;a++) print ar[a]}}'scores
+awk -F"," 'BEGIN{i=1} {ar[i]=$0 ; i++} END{for(a=i-10;a<i;a++) print ar[a]}'scores
+awk -F"," 'BEGIN{i=1} {ar[i]=$0 i++} END{for(a=i-10;a<i;a++) print ar[a]}'scores
+vim tail_10_lines 
+mv tail_10_lines{,.awk}
+ls *.awk
+echo Hello{1,2,3}
+echo Hello{1..3}
+echo Hello{1..10}
+cat tail_10_lines.awk 
+ls
+cat print_lines_11_to_20.awk 
+ls | grep 1
+cat last_10_lines 
+cat last_10_lines 
+vim last_10_lines 
+cd
+vim .vimrc
+cd Downloads/
+cd
+cat .vimrc
+echo set autoindent >> .vimrc
+cat .vimrc
+pwd
+mkdir awk
+cd awk/
+cd ,,
+cd ..
+ls
+pwd
+mkdir work
+cd work/
+ls
+cd ..
+pwd
+mkdir assignments
+cd assignments/
+mv ~/Downloads/*.awk .
+ls
+mv ~/Downloads/scores .
+ls
+awk tail_10_lines.awk scores 
+awk -f tail_10_lines.awk scores 
+awk -f tail_10_lines.awk scores 
+cd
+ls
+cd assignment
+cat assignments/
+cd assignments/
+cd
+mkdir dtn
+mv ~/Downloads/*.dtn .
+ls
+cd dtn
+mv ~/Downloads/*.dtn .
+ls
+mv ~/Downloads/*.dtn  .
+ls
+cd Dow
+cd
+Downloads/
+cd Downloads/
+ls
+cd ../dtn
+mv ~/*dtn .
+cd
+ls
+ls
+ls |grep -l "dtn"
+ls
+cd Downloads/
+ls
+cd
+ls
+cd dtn'
+cd dtn
+ls
+cd
+rmdir work
+cd work
+ls
+rm 1/even.awk/mul/sum_practice/text/
+rm 1
+rm even.awk
+rm mul
+rm sum_practice 
+rm average_of_number 
+rm finalSrk.csv 
+rm sum
+rm text
+ls
+mv assignment/bin/awk/dtn
+mv assignment/bin/awk/dtn .
+la
+ls
+cd
+ls
+cd
+cd work
+pwd
+ls
+mv ~/assignments/ .
+ls
+mv ~/bin/ .
+ls
+mv ~/awk/ .
+ls
+mv ~/dtn/ .
+ls
+mkdir tmp
+ls
+cd dtn
+ls
+grep 
+grep " a" cube_mul_push.dtn 
+vim .bashrc
+cd
+vim .vimrc
+vim .bashrc
+vim .bash_profile 
+ls
+echo $PATH

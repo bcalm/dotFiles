@@ -1,0 +1,501 @@
+tr 8Dd4BB864Ddf INTELLIGENTW < decode 
+tr 8Dd4BB864Ddf0b INTELLIGENTWAR < decode 
+echo " Jehisbw jso9dh363949bd" > sudipta
+tr [:alnum:] [:alpha:] < sudipta
+tr [:xalpha:] [:alpha:] < sudipta
+man tr
+tr [:digit:] [:alpha:] < sudipta
+fEe 0b4 8Dd4BB864Dd > ragini
+echo "fEe 0b4 8Dd4BB864Dd" > ragini
+tr [:alnum:] [:alpha:] < ragini
+tr [:xdigit:] [:alpha:] < ragini
+man tr
+Cut
+cut -d ',' -f1,2 filmography.csv | grep -v "^[D]"|grep "200*"|wc -l
+cut -d ',' -f1,2 filmography.csv | grep -v "^[D]"|grep "200*"|wc -l
+cd
+cd download
+cd downloadcd Downloads/
+cd Downloads/
+cut -d ',' -f1,2 filmography.csv | grep -v "^[D]"|grep "200*"|wc -l
+grep -c "^[^D].*,20[01][0-9]" filmography.csv
+cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ grep -i "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+ cut -d',' -f1 filmography.csv | grep -icx '^[^ .-]\+'
+ grep -i "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1|wc -l
+ cut -d',' -f1 filmography.csv | grep -ix '^[^ .-]\+'
+vsplit
+vim
+grep -i "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+grep -ic "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+grep -ic "^[a-z][a-z]*," filmography.csv |cut -d ',' -f1
+vim .bash_profile
+ls
+cd work 
+ls
+rm dupfinalsrk 
+rm alpha
+rm decode 
+rm homework
+rm practice 
+rm ragini 
+rm sudipta 
+rm tr
+ls
+cd homework/
+rmdir homework
+ls
+rmdir test
+rm test
+cd../
+cd ../
+rmmdir homework/
+rmdir homework/
+ls
+cd ~/bin
+ls
+alias ls
+alias ls=ls -G
+alias ls="ls -G"
+ls
+ls
+cd bin
+ls
+alias
+alias ls="ls -G"
+vim .bash_p
+cd
+vim .bash_profile 
+cd bin
+ls
+alias ls="ls -G" >ls  
+ls
+vim .bash_profile 
+cd
+vim .bash_profile 
+vim .bashrc
+alias ls="ls -G" >ls.sh  
+ls
+rm ls.sh
+cd bin
+ls
+rm ls
+alias ls="ls -G" >ls.sh  
+cd
+vim .bashrc
+vim .bash_profile 
+ls
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim
+vim .vimrc
+vim
+cd work
+vim average_
+vim average_of_number
+vim -F ',' -f
+vim -F ',' -f average_of_number
+awk -F ',' -f average_of_number
+awk -F ',' -faverage_of_number
+awk -F ',' -f average_of_number
+vim average_of_number 
+awk -F ',' -f average_of_number
+awk -F ',' -f average_of_number
+vim average_of_number 
+awk -F ',' -f average_of_number
+awk -F ',' -f average_of_number
+vim average_of_number 
+awk -F ',' -f average_of_number
+raja,60
+awk -F ',' -f average_of_number
+ls
+awk -F ',' -f average_of_number
+awk -F ',' -f average_of_number
+awk -F ',' -f average_of_number
+ls
+cd
+ls
+cd bin
+ls
+cd ../work
+ls
+man awk
+man uniq
+awk 'Nf > 0'
+awk 'Nf > 0'
+echo > text
+cat > text
+awk 'Nf > 0' text
+cat >> text
+cat text 
+awk 'Nf > 0' text
+awk "NF > 0" text
+awk 'NF > 0' text
+awk 'END { print NR }' sample.txt
+3
+awk 'END { print NR}' text
+man awk
+awk '{ if (length($0) > max) max = length($0) } END { print max }' sample.txt
+awk '{ if (length($0) > max) max = length($0) } END { print max}' text 
+awk '{ if (length > max) max = length($0) } END { print max}' text 
+awk '{ if (length > max) max = length } END { print max}' text 
+awk '{ if (length > max) max == length } END { print max}' text 
+awk '{ if (length > max) max == length } END { print max}' text 
+awk '{ if (length > max) } END { print max}' text 
+awk '{ if max = length } END { print max}' text 
+awk '{  max = length } END { print max}' text 
+awk '{ if (length > max) } END { print max}' text 
+awk '{ if (length > max) max = length($0) } END { print max}' text 
+echo $?
+awk '{ if (length > max) max == length } END { print max}' text 
+echo $?
+awk '{ if (length > max) } END { print max}' text 
+awk '{  max = length } END { print max}' text 
+awk 'END { print NR}' text
+cat >> text
+echo $?
+vim even.awk
+awk -f even.awk 
+vim even.awk
+awk -f even.awk 
+awk -f even.awk 
+vim even.awk
+awk -f even.awk 
+vim even.awk
+awk -f even.awk 
+vim even.awk
+awk -f even.awk 
+man awk
+awk -f even.awk 
+vim even.awk
+awk -f even.awk 
+vim even.awk
+awk -f even.awk 
+man awk
+vim even.awk
+awk -f even.awk 
+vim even.awk
+awk -f even.awk 
+vim even.awk
+vim even.awk
+awk -f even.awk 
+awk -f even.awk 
+vim even.awk
+man grep
+man awk
+awk { print $2, $1 } finalSrk.csv 
+awk -F',' { print $2, $1 } finalSrk.csv 
+awk -F ',' { print $2, $1 } finalSrk.csv 
+man awk
+awk -F ',' { print $2, $1 } finalSrk.csv 
+awk -F ',' ( print $2, $1 ) finalSrk.csv 
+awk -F ',' { print $2, $1 } finalSrk.csv 
+awk  { print $2, $1 } finalSrk.csv 
+cat finalSrk.csv 
+awk  { print $2, $1 } finalSrk.csv 
+awk { print $2, $1 } finalSrk.csv 
+man awk
+awk { FS = ",[ \t]*|[ \t]+" } {print $2, $1 } finalSrk.csv 
+awk { FS = ",[ \t]*|[ \t]+" } {print $2, $1 } finalSrk.csv 
+awk -F ',' { print $2, $1 } finalSrk.csv 
+vim even.awk 
+awk -f even.awk 
+awk -F ',' { print $2, $1 } finalSrk.csv 
+awk -F ',' Begin { } { print $2, $1 }END { } finalSrk.csv 
+awk -F ',' "Begin { } { print $2, $1 }END { }" finalSrk.csv 
+awk -F ',' "BEGIN { } { print $2, $1 }END { }" finalSrk.csv 
+awk -F ',' "BEGIN{ } { print $2 ',' $1 } END{ }" finalSrk.csv 
+awk -F ',' 'BEGIN{ } { print $2 "," $1 } END{ }' finalSrk.csv 
+awk -F ',' "BEGIN{ } { print $2 $1 } END{ }" finalSrk.csv 
+awk -F ',' "BEGIN{ } { print $2 } END{ }" finalSrk.csv 
+awk -F ',' 'BEGIN{ } { print $2 "," $1 } END{ }' finalSrk.csv 4
+awk -F ',' 'BEGIN{ } { print $2} END{ }' finalSrk.csv 
+awk -F ',' "BEGIN{ } { print $2} END{ }" finalSrk.csv 
+awk -F ',' 'BEGIN{ } { print $2} END{ }' finalSrk.csv 
+vim even.awk 
+awk -F ',' 'BEGIN{ } { print $2} END{ }' finalSrk.csv 
+awk -F ',' 'BEGIN{ } { print $2 "," $1} END{ }' finalSrk.csv 
+awk  -F ',' 'BEGIN{ } { print $2 "," $1} END{ }' finalSrk.csv 
+awk -F ',' 'BEGIN{ } { print $2 "," $1} END{ }' finalSrk.csv 
+awk -F ',' 'Begin { } {print NR } END { } ' finalSrk.csv 
+awk -F ',' 'Begin { } {print NF } END { } ' finalSrk.csv 
+vim mul
+awk -f mul
+vim mul
+man awk
+vim mul
+awk -f mul
+awk -F' ' -f mul
+vim mul
+awk -F' ' -f mul
+vim mul
+awk -F' ' -f mul
+vim mul
+awk -F' ' -f mul
+vim mul
+man awk
+vim mul
+awk -F' ' -f mul
+vim mul
+awk -F' ' -f mul
+awk -F' ' -f mul
+vim mul
+awk -F' ' -f mul
+vim mul
+man awk
+vim sum
+cat sum
+cat > sum_practice
+cat sum
+cat sum_practice 
+awk -fsum sum_practice 
+awk -f sum sum_practice 
+vim sum
+awk -f sum sum_practice 
+vim sum
+awk -f sum sum_practice 
+ls
+cd
+ls
+vim .bash_profile 
+cd bin
+ls
+cat ls.sh
+chrome
+cat chrome
+man open
+cat alias.sh 
+cat >> ls.sh
+cat ls.sh
+ls
+chmod +x ls.sh
+ls
+ls
+rm ls.sh
+bin
+cd bin
+ls
+cat >ls.sh
+ls
+chmod +x ls.sh
+ls
+ls
+exit
+ls
+bash
+cd bin
+ls
+cd
+cd 
+cd Downloads/
+cat scores 
+vim score.awk
+awk -F',' BEGIN {Sum = 0} {
+awk -F',' BEGIN {Sum = 0} {for (i =o; Sum =Sum + $i: i == )} END { print Sum} score
+awk -F',' BEGIN {Sum = 0} {for (i =2 ; i<=13 ; Sum =Sum + $i  )} END { print Sum} score
+awk -F',' BEGIN {Sum = 0} {for ( i =2 ; i<=13 ; Sum =Sum + $i )} END { print Sum} score
+awk -F',' BEGIN {Sum = 0} {for ( i=2 ; i<=13 ;i++) Sum =Sum + $i } END { print Sum} score
+awk -F',' BEGIN {Sum = 0} {for ( i=2 ; i<=13 ;i++) Sum =Sum + $i } END { print Sum } score
+awk -F',' BEGIN {Sum = 0} { for ( i=2 ; i<=13 ;i++) Sum =Sum + $i } END { print Sum } score
+awk -F',' BEGIN {Sum = 0} { for ( i=2 ; i<=13 ;i++) Sum =Sum + $i } END { print Sum } score
+awk -F',' 'BEGIN {Sum = 0} { for ( i=2 ; i<=13 ; i++ ) Sum = Sum + $i } END{ print Sum }' score
+awk -F',' 'BEGIN {Sum = 0} { for ( i=2 ; i<=13 ; i++ ) Sum = Sum + $i } END{ print Sum }' score
+cat score
+
+awk -F',' 'BEGIN {Sum = 0} { for ( i=2 ; i<=13 ; i++ ) Sum = Sum + $i } END{ print Sum }' scores
+awk -F',' 'BEGIN {Sum = 0} { for ( i=2 ; i<=13 ; i++ ) Sum = Sum + $i } END{ print Sum }' scores
+cat scores 
+awk -F',' '{print $2, $9}' scores
+awk -F',' '{print $1, $3, $4, $5, $6}' scores
+awk -F',' '{print $2, $1}' scores
+awk -F',' '{print $2,"-" $1}' scores
+awk -F',' '{print $2,"-",  $1}' scores
+awk -F',' '{print $2,"-", $1}' scores
+awk -F',' "{print $2, $9}" scores
+awk -F',' '{print $2,"," $9}' scores
+awk -F',' '{print $2","$9}' scores
+awk -F',' '{print $1","$3","$4","$5","$6}' scores
+awk -F',' '{print $2,"-" $1}' scores
+awk -F',' '{print $2"-"$1}' scores
+awk -F',' '{for ( i=o; i=5 ; i++ ) print $i scores
+awk -F',' '{for ( i=o; i=5 ; i++ ) print $i}' scores
+awk -F',' '{for ( i=o; i<=5 ; i++ ) print $i}' scores
+awk -F',' '{for ( i=o; i>=5 ; i++ ) print $i}' scores
+awk -F',' '{for ( i=0; i<=5 ; i++ ) print $i}' scores
+head scores 
+awk -F',' '{for ( i=0; i<=5 ; i++ ) print $i}' scores
+awk -RS',' '{for ( i=0; i<=5 ; i++ ) print $i}' scores
+man awk
+awk -NF '{print $5}' scores 
+awk -RS '{print $5}' scores 
+man awk
+awk '{match (1 ,5) }' scores 
+man awk
+awk '{substr (1 ,5) }' scores 
+man awk
+awk '{sub 5 $0 }' scores 
+awk '{sub (5 $0) }' scores 
+man awk
+man awk
+awk '{sub (5, $0) }' scores 
+awk '{sub (12,5) }' scores 
+awk '{sub (1,5) }' scores 
+awk '{substr (5, $0) }' scores 
+awk '{substr (1,5) }' scores 
+man awk
+man awk
+awk '{index (1,5) }' scores 
+man awk
+awk '{split (1,5) }' scores 
+man awk
+awk '{system (1,5) }' scores 
+awk '{system (5) }' scores 
+awk '{system (print) }' scores 
+awk '{system (print 1,5 ) }' scores 
+awk '{system (1,5) }' scores 
+man awk
+awk -F',' '{NF -5}' scores
+man awk
+vim tail_10_lines.awk 
+ls
+echo $PATH
+vim .bashrc
+ls
+vim .bash_profile 
+ls
+   
+ls
+cat bash_profile 
+ls
+cd work/assignments/
+cd tail_10_lines.awk 
+vim tail_10_lines.awk 
+cd work
+ls
+cd assignments/
+ls
+awk -F"," 'BEGIN {i= 1} {ar[1] i++} END {for (a=i -10;a<i;a++){print ar [a]}}' scores
+ls
+ls
+ls
+awk -F"," 'BEGIN {i= 1} {ar[1] i++} END {for (a=i -10;a<i;a++){print ar [a]}}' scores
+awk -F"," 'BEGIN {i= 1} {ar[1] i++} END {for (a=i -10;a<i;a++){print ar [i]}}' scores
+awk -F"," 'BEGIN {i= 1} {ar[1] i++} END {for (a=i -10;a<i;a++){print ar[a]}}' scores
+awk -F"," 'BEGIN {i= 1} {ar[i] i++} END {for (a=i -10;a<i;a++){print ar[a]}}' scores
+BEGIN {  i=1{ ar[i]=$0  i++}   END {  for(a=i-    10;a<i;a++){    print ar[a]  }}' 
+awk -F, 'BEGIN {  i=1{ ar[i]=$0  i++}   END {  for(a=i-    10;a<i;a++){    print ar[a]  }}' scores 
+awk -F, ' BEGIN {  i=1}{ ar[i]=$0  i++}   END {  for(a=i    -10;a<i;a++){    print ar[a]  }}
+
+' scores
+awk -F, 'BEGIN {  i=1}{ ar[i]=$0  i++}   END {  for(a=i-    10;a<i;a++){    print ar[a]  }}' scores 
+cd
+vim .vimrc
+vim .vimrc
+vim .vimrc
+cd work
+ls
+cd bin
+ls
+cat ls.sh
+echo "alias ls ="ls -h" >> ls.sh
+echo "alias ls ="ls -h"" >> ls.sh
+ls
+ls.sh
+cd
+ls
+cd bin
+cd bin
+cd work
+cd bin 
+cat ls.sh
+echo " alias ls =="ls -Gh"" > ls.sh
+cat ls.sh
+ls
+echo " alias ls ="ls -Gh"" > ls.sh
+ls
+cd
+cd
+ls
+cd work/bin
+echo " alias ls ="ls -lGh"" > ls.sh
+ls
+cd
+ls
+cd work/bin
+cat ls,].sh
+cat ls.sh
+cd
+work/dtn 
+cd work/dtn
+ls
+alias
+clear
+alias
+alias ls='ls -lGh'
+ls
+clear
+alias ls='ls -lh -G'
+ls
+clear
+ls -F
+clear
+unalias ls
+clear
+ls
+clear
+ls -G
+clear
+ls -G
+cd
+ls
+ls -G
+clear
+alias ls='ls -lGh'
+ls
+clear
+echo "alias ls='ls -lGh'" >> ~/work/bin/ls.sh 
+cat ~/work/bin/ls.sh 
+ls
+ls
+cd /work/bin
+ls
+cd work/bin
+cat ls.sh
+vim ls.sh
+exit
+bash
+vim .bash_profile
+cd work/bin
+cd../
+cd ../
+cd awl
+cd awk
+vim head_10_lines.awk
+cd ../
+cd tmp
+ls
+cd
+clear
+vim .bash_profile
+q
+awk -F"," 'NR <11 {print }'
+cd work/assignments
+awk -F"," 'NR <11 {print }' scores
+awk -F"," 'NR >10 {print }' scores
+awk -F"," 'NR >10 && NR <21 {print }' scores
+awk -F"," 'NR <10 && NR >20 {print }' scores
+awk -F"," 'NR <10 || NR >20 {print }' scores
+awk -F"," 'NR <10 || NR >20 {print }' scores
+cd work/tmp
+cd
+vim .bash_profile 
+vim .bash_profile 
+vim .bash_profile 
+vim .bash_profile 
+jbib

@@ -1,0 +1,41 @@
+cut -t ' ' vikram_hcf.dtn 
+cut -d ' ' vikram_hcf.dtn 
+cut -d ' ' -f2 vikram_hcf.dtn 
+cut -d ' ' -f3 vikram_hcf.dtn 
+cat vikram_hcf.dtn 
+cut -d ', ' -f3 vikram_hcf.dtn 
+cut -d ', ' -f2 vikram_hcf.dtn 
+cut -d ', ' -f1 vikram_hcf.dtn 
+sort -r vikram_hcf.dtn 
+sort -r vikram_hcf.dtn | cut -d ' ' -f1 vikram_hcf.dtn 
+sort -r vikram_hcf.dtn | cut -d ' ' -f1 vikram_hcf.dtn |uniq
+sort  vikram_hcf.dtn | cut -d ' ' -f1 vikram_hcf.dtn |uniq
+sort  vikram_hcf.dtn | cut -d ' ' -f1 vikram_hcf.dtn |uniq
+sort  vikram_hcf.dtn
+sort  vikram_hcf.dtn | cut -d ' ' -f1 vikram_hcf.dtn |uniq
+sort  vikram_hcf.dtn | cut -d ' ' -f1 vikram_hcf.dtn
+sort  vikram_hcf.dtn | uniq
+cut -d ' ' -f1 vikram_hcf.dtn 
+cut -d ' ' -f1 vikram_hcf.dtn |sort 
+cut -d ' ' -f1 vikram_hcf.dtn |sort |uniq
+cut -d ' ' -f1 vikram_hcf.dtn |sort |uniq -c
+cat >person.sh
+ls
+cd ../work/
+cat >person
+person
+./person
+chmod +x person 
+./person
+./person
+./person extra stuff
+./person extra stuff
+ls
+rmdir mkdir extra stuff
+ls
+cat person 
+rm person
+ls
+rm numbers 
+ls
+ls

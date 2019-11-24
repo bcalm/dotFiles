@@ -1,0 +1,46 @@
+echo $PATH
+cd Downloads/
+grep "[x\-\z]" finalSrk.csv 
+grep "[x\ - \z]" finalSrk.csv 
+grep "[x\-\z]" finalSrk.csv 
+grep "[xz-]" finalSrk.csv 
+grep "[x\-\z]" finalSrk.csv 
+grep finalSrk.csv 
+grep 1997 finalSrk.csv 
+set hl is
+grep 1997 finalSrk.csv 
+man grep
+grep 1997 finalSrk.csv 
+ls -G
+grep 1997 finalSrk.csv 
+grep --color=always -z 1997 finalSrk.csv 
+grep --color=always 1997 finalSrk.csv 
+grep 1997 finalSrk.csv 
+grep --color=always 1997 finalSrk.csv 
+grep 1997 finalSrk.csv 
+grep --color=always 1997 finalSrk.csv 
+alias grep="grep --color=always
+"
+grep 1997 finalSrk.csv 
+alias grep="grep --color=always
+" 
+grep 1997 finalSrk.csv 
+alias grep="grep --color=always"
+grep 1997 finalSrk.csv 
+man grep
+grep "199*" finalSrk.csv 
+vim finalSrk.csv 
+grep "199*" finalSrk.csv 
+grep "19*9" finalSrk.csv 
+vim finalSrk.csv 
+grep "129" finalSrk.csv 
+grep "139" finalSrk.csv 
+grep "19*9" finalSrk.csv 
+grep "19..," finalSrk.csv 
+grep "^D" finalSrk.csv 
+grep "^D,r$" finalSrk.csv 
+grep "^D,*r$" finalSrk.csv 
+grep "^D,r*$" finalSrk.csv 
+grep "^D,r$*" finalSrk.csv 
+grep "[0-2]" finalSrk.csv 
+vim .bashrc

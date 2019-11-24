@@ -1,0 +1,8 @@
+ cd Downloads/finalSrk.csv 
+ cat Downloads/finalSrk.csv 
+cd Downloads/
+nl finalSrk.csv 
+man nl
+nl -l finalSrk.csv 
+nl -lfinalSrk.csv 
+nl finalSrk.csv 

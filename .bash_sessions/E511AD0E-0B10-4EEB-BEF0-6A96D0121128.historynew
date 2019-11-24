@@ -1,0 +1,19 @@
+cd Downloads/
+grep -v "19" final.csv
+grep -v "19" finalSrk.csv
+grep "[0-8]" finalSrk.csv 
+alias grep="grep --color=always"
+grep "[0-8]" finalSrk.csv 
+grep -v "[0-8]" finalSrk.csv 
+grep"^[^ABC]e" finalSrk.csv 
+grep "^[^ABC]e" finalSrk.csv 
+grep "^[^ABC]e" finalSrk.csv |wc -l
+grep -b5 "^[^ABC]e" finalSrk.csv |wc -l
+grep -b5 "^[^ABC]e" finalSrk.csv 
+grep -B5 "^[^ABC]e" finalSrk.csv 
+   man grep
+   man grep
+grep -il "acToR" finalSrk.csv 
+grep -il "Actor" finalSrk.csv 
+   man grep
+grep -B5 "^[^ABC]e" finalSrk.csv |less
