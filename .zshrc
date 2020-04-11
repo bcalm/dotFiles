@@ -124,4 +124,3 @@ export LC_ALL=en_US.UTF-8
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-export GITHUB_TOKEN="bcalm:a913b78c0e20854dac42bee3e3a1e5a8274edb9a"
