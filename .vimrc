@@ -13,7 +13,7 @@ set shiftwidth=2
 set backspace=indent,eol,start   " for backspace stuff
 filetype plugin indent on
 syntax enable
-set cursorline                "Cursor lining"
+set cursorline               "Cursor lining"
 set autoindent
 
 "--------------------------------vundlePlugin------------------------------------------------------------
