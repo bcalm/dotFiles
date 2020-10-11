@@ -13,7 +13,7 @@ fi
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/step16/.oh-my-zsh"
+export ZSH="/Users/"$(whoami)"/.oh-my-zsh"
 ZSH_THEME="powerlevel10k/powerlevel10k"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -114,9 +114,9 @@ source $ZSH/oh-my-zsh.sh
 PATH="$PATH":~/work/bin
 PATH="$PATH":/usr/local/bin/code
 echo "Hello Vicky"
-source ~/work/bin/alias.sh 
-source ~/work/bin/chrome
-source ~/work/bin/ls.sh
+source ~/work/bin/Alias/alias.sh 
+source ~/work/bin/Alias/chrome
+source ~/work/bin/Alias/ls.sh
 export LC_ALL=en_US.UTF-8
 
 
@@ -124,3 +124,7 @@ export LC_ALL=en_US.UTF-8
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+source /usr/local/opt/powerlevel10k/powerlevel10k.zsh-theme
