@@ -16,28 +16,10 @@ syntax enable
 set cursorline               "Cursor lining"
 set autoindent
 
-"--------------------------------vundlePlugin------------------------------------------------------------
-filetype off
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-Plugin 'VundleVim/Vundle.vim'                        "vundle manager"
-Plugin 'itchyny/lightline.vim'                        "lightline bottom shows insert and all stuff"
-Plugin 'nathanaelkane/vim-indent-guides'             "indent line stuff"
-Plugin 'terryma/vim-multiple-cursors'                 "for multiple cursor"  
-Plugin 'Royal-Colorschemes'                          "normal color"
-Plugin 'scrooloose/nerdtree'                          "for nerdtree shows all option"
-call vundle#end()
-filetype plugin indent on
-
 "----------------------------normalPlugin----------------------------------------------------------------
 
-source /Users/step16/.vim/indentLine/after/plugin/indentLine.vim
 let g:indentLine_color_term = 239
 let g:indentLine_char_list = ['|', '¦', '┆', '┊']
-source /Users/step16/vim-multiple-cursors/plugin/multiple_cursors.vim
-
-
-
 
 "-------------------------------mapping------------------------------------------------------------------
 
@@ -60,4 +42,3 @@ set foldnestmax=10
 set nofoldenable
 set foldlevel=2
 
-colorscheme dracula
