@@ -13,8 +13,8 @@ fi
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/"$(whoami)"/.oh-my-zsh"
-ZSH_THEME="powerlevel10k/powerlevel10k"
+#export ZSH="/Users/"$(whoami)"/.oh-my-zsh"
+#ZSH_THEME="powerlevel10k/powerlevel10k"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -83,7 +83,7 @@ plugins=(
   zsh-autosuggestions
   )
 
-source $ZSH/oh-my-zsh.sh
+#source $ZSH/oh-my-zsh.sh
 #source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # User configuration
@@ -110,7 +110,7 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
+#alias ohmyzsh="mate ~/.oh-my-zsh"
 PATH="$PATH":~/work/bin
 PATH="$PATH":/usr/local/bin/code
 echo "Hello Vicky"
@@ -118,13 +118,17 @@ source ~/work/bin/Alias/alias.sh
 source ~/work/bin/Alias/chrome
 source ~/work/bin/Alias/ls.sh
 export LC_ALL=en_US.UTF-8
-
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export ZSH="$HOME/.oh-my-zsh"
+ZSH_THEME="robbyrussell"
+source $ZSH/oh-my-zsh.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+#[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+#source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-source /usr/local/opt/powerlevel10k/powerlevel10k.zsh-theme
+#source /usr/local/opt/powerlevel10k/powerlevel10k.zsh-theme
