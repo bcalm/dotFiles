@@ -118,8 +118,8 @@ source ~/work/bin/Alias/alias.sh
 source ~/work/bin/Alias/chrome
 source ~/work/bin/Alias/ls.sh
 export LC_ALL=en_US.UTF-8
-source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /Users/bcalm/.oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /Users/bcalm/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="robbyrussell"
 source $ZSH/oh-my-zsh.sh
